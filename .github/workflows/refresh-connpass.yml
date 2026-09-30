@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: connpass-event-refresh
+  group: connpass-api-refresh
   cancel-in-progress: false
 
 jobs:

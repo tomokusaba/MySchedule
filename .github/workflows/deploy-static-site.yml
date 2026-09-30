@@ -12,6 +12,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: connpass-api-refresh
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

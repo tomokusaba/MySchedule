@@ -101,8 +101,8 @@ test("createApiClient stops retrying after the rate-limit retry limit", async ()
   });
 
   await assert.rejects(requestPage("events/", { count: 100, start: 1 }), /HTTP 429/);
-  assert.equal(attempts, 4);
-  assert.deepEqual(delays, [5000, 10000, 20000]);
+  assert.equal(attempts, 6);
+  assert.deepEqual(delays, [60000, 120000, 240000, 480000, 960000]);
 });
 
 test("syncConnpass fetches all three activity sources and writes one merged dataset", async () => {
