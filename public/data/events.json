@@ -4,6 +4,4931 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": null,
-  "events": []
+  "generatedAt": "2026-09-30T06:12:15.371Z",
+  "events": [
+    {
+      "id": 404852,
+      "title": ".NETラボ@HackBar心斎橋",
+      "catch": "",
+      "startedAt": "2026-11-29T13:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/404852/",
+      "groupName": "Microsoft MVPバー",
+      "place": "HackBar心斎橋店",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 399903,
+      "title": ".NETラボ2026年11月懇親会",
+      "catch": "",
+      "startedAt": "2026-11-28T19:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/399903/",
+      "groupName": ".NETラボ",
+      "place": "",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 399899,
+      "title": "【大阪出張編】.NETラボ 勉強会 2026年11月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-11-28T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/399899/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne大阪支店",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 404619,
+      "title": "アクセシビリティカンファレンス福岡2026",
+      "catch": "2026年のテーマ：ワクワクをともに",
+      "startedAt": "2026-11-21T12:15:00+09:00",
+      "url": "https://fukuoka-a11yconf.connpass.com/event/404619/",
+      "groupName": "アクセシビリティカンファレンス福岡",
+      "place": "ONE FUKUOKA CONFERENCE HALL",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 404586,
+      "title": "Microsoft MVPとMicrosoft Igniteの日に徹夜するバー",
+      "catch": "",
+      "startedAt": "2026-11-17T20:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/404586/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 404436,
+      "title": "JAWS-UG浜松・静岡 × JAZUG Shizuoka クラウド勉強会 202611",
+      "catch": "",
+      "startedAt": "2026-11-07T13:00:00+09:00",
+      "url": "https://jawsug-hamamatsu.connpass.com/event/404436/",
+      "groupName": "JAWS-UG浜松",
+      "place": "SOU",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 406024,
+      "title": "//localboast Tokyo",
+      "catch": "東京 Global Engineer Showcase",
+      "startedAt": "2026-11-05T19:00:00+09:00",
+      "url": "https://localboast-tokyo.connpass.com/event/406024/",
+      "groupName": "localboast",
+      "place": "MOSH Inc.",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 406424,
+      "title": "アイドルが1人開発を完走した裏側 ―playgroundと宮本佳林さんが語る“欲しい”を言語化する力",
+      "catch": "",
+      "startedAt": "2026-10-29T19:00:00+09:00",
+      "url": "https://findy.connpass.com/event/406424/",
+      "groupName": "ファインディ／Findy",
+      "place": "Findy イベントスペース",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 400124,
+      "title": ".NETラボ 勉強会 2026年10月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-10-24T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/400124/",
+      "groupName": ".NETラボ",
+      "place": "KDDIアイレット株式会社",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 406658,
+      "title": "Dev Days | Copilot CLI × DevOps - Avanade Japan",
+      "catch": "GitHub Copilot CLIで体験するAgentic DevOps",
+      "startedAt": "2026-10-22T18:30:00+09:00",
+      "url": "https://avanadejapantech.connpass.com/event/406658/",
+      "groupName": "Avanade Japan Tech",
+      "place": "アバナード株式会社",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 407703,
+      "title": "「誰もどれも取り残さない」は、どうつくる？｜PROJECT SOLITの実践",
+      "catch": "連続社会起業家、ソーシャルデザイナーの田中 美咲さん（PROJECT SOLIT 代表）を迎えて",
+      "startedAt": "2026-10-16T19:30:00+09:00",
+      "url": "https://a11ytyo.connpass.com/event/407703/",
+      "groupName": "A11y Tokyo Meetup",
+      "place": "LODGE（LINEヤフー株式会社　紀尾井町オフィス）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 402163,
+      "title": "アニメから得た学びを発表会@沼津【懇親会】",
+      "catch": "",
+      "startedAt": "2026-10-11T17:30:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/402163/",
+      "groupName": "エンジニアニメ",
+      "place": "沼津駅周辺の居酒屋",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 398764,
+      "title": "アニメから得た学びを発表会＠沼津",
+      "catch": "第２８回目の開催です！「エンジニアがアニメから得た学び」を発表したりアニメについて語ったりします",
+      "startedAt": "2026-10-11T13:30:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/398764/",
+      "groupName": "エンジニアニメ",
+      "place": "Plaza Verde Convention Complex in Numazu 403小会議室",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 404770,
+      "title": "Japan Azure User Group 16周年イベント",
+      "catch": "",
+      "startedAt": "2026-10-03T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/404770/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社 品川本社オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 407879,
+      "title": "PyCon mini Shizuoka 2027 ミーティング/作業会",
+      "catch": "キックオフミーティングです",
+      "startedAt": "2026-10-01T20:00:00+09:00",
+      "url": "https://pycon-shizu.connpass.com/event/407879/",
+      "groupName": "PyCon mini Shizuoka",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 403783,
+      "title": "第 12 回 JAZUG for Women 【GitHub Copilot回】",
+      "catch": "女性エンジニアのためのAzure勉強会（配信はどなたでも視聴可能！）",
+      "startedAt": "2026-09-29T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/403783/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 399503,
+      "title": ".NETラボ 勉強会 2026年9月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-09-26T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/399503/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 394163,
+      "title": "C# Kaigi 2026",
+      "catch": "C# 特化カンファレンス",
+      "startedAt": "2026-09-19T12:00:00+09:00",
+      "url": "https://csharpkaigi.connpass.com/event/394163/",
+      "groupName": "C# Kaigi",
+      "place": "docomo R&D OPEN LAB ODAIBA",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 393530,
+      "title": "第十四回技術書同人誌博覧会（一般参加者向け）",
+      "catch": "",
+      "startedAt": "2026-09-13T11:00:00+09:00",
+      "url": "https://gishohaku.connpass.com/event/393530/",
+      "groupName": "技術書同人誌博覧会",
+      "place": "大田区産業プラザ（1F大展示ホール）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 404725,
+      "title": "オフライン納涼会 2026 夏｜A11y Tokyo Meetup",
+      "catch": "隔月開催のオフライン交流会。今回は軽食とドリンク付きの半立食パーティ形式で、恵比寿で開催！",
+      "startedAt": "2026-09-10T19:30:00+09:00",
+      "url": "https://a11ytyo.connpass.com/event/404725/",
+      "groupName": "A11y Tokyo Meetup",
+      "place": "コミュニケーションスペース　amu",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 401823,
+      "title": "エンジニア×キャリアトーク＆交流会！",
+      "catch": "RPACommunity 東京本部イベントです！",
+      "startedAt": "2026-09-08T19:00:00+09:00",
+      "url": "https://rpacommunity.connpass.com/event/401823/",
+      "groupName": "RPACommunity",
+      "place": "株式会社キャリアデザインセンター",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 402444,
+      "title": "M5 Japan Tour 2026 Autumn 東京",
+      "catch": "毎年恒例の「Maker Faire Tokyo」に合わせて来日中のCEOジミーさんに会える！",
+      "startedAt": "2026-09-07T19:00:00+09:00",
+      "url": "https://m5stack.connpass.com/event/402444/",
+      "groupName": "M5Stack User Group Japan",
+      "place": "ソニーBRIDGE TERMINAL",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 389386,
+      "title": "アクセシビリティカンファレンスCHIBA2026",
+      "catch": "開催テーマ「変わるものと変わらないもの」",
+      "startedAt": "2026-09-05T11:00:00+09:00",
+      "url": "https://a11y-chiba.connpass.com/event/389386/",
+      "groupName": "アクセシビリティカンファレンスCHIBA",
+      "place": "幕張メッセ 国際会議場 2階 国際会議室",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 400242,
+      "title": "第62回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2026-09-03T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/400242/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社 品川本社オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 399307,
+      "title": "DevRel Talks! in Tokyo #2",
+      "catch": "DevRelによるDevRelトークでDevRelについて知る",
+      "startedAt": "2026-08-28T19:00:00+09:00",
+      "url": "https://devrel-talks.connpass.com/event/399307/",
+      "groupName": "DevRel Talks!",
+      "place": "LayerX イベントスペース",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 402630,
+      "title": "エンジニア育成に向き合う ～先輩たちの悩みと知見共有会～",
+      "catch": "TECH BATON in 東京",
+      "startedAt": "2026-08-27T19:00:00+09:00",
+      "url": "https://findy.connpass.com/event/402630/",
+      "groupName": "ファインディ／Findy",
+      "place": "Findy イベントスペース",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 399231,
+      "title": "Let's Learn GitHub Copilot ① GitHub Copilot App 編",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2026-08-24T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/399231/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 396232,
+      "title": ".NETラボ 勉強会 2026年8月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-08-22T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/396232/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 401843,
+      "title": "ITエンジニアバー",
+      "catch": "～Microsoft MVP再受賞ブルーリング記念～",
+      "startedAt": "2026-08-21T18:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/401843/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 396886,
+      "title": "【Lenovo Pro Community】ガジェット研究室＠秋葉原_#9",
+      "catch": "２０２６年 第４回 ＠聖地 秋葉原に集え！ガジェット研究室～初心者も大歓迎～",
+      "startedAt": "2026-08-20T18:30:00+09:00",
+      "url": "https://lenovopro-comunity-gaget-lab.connpass.com/event/396886/",
+      "groupName": "【LenovoPro コミュニティ】ガジェット研究室",
+      "place": "Lenovo Japan本社セミナールーム（アキバUDX北館10階）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 382815,
+      "title": "第10回 Azure Travelers 勉強会 広島の旅 -懇親会-",
+      "catch": "",
+      "startedAt": "2026-08-01T19:00:00+09:00",
+      "url": "https://connpass.com/event/382815/",
+      "groupName": "",
+      "place": "",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 382813,
+      "title": "第10回 Azure Travelers 勉強会 広島の旅",
+      "catch": "with 株式会社ドリーム・アーツ",
+      "startedAt": "2026-08-01T10:30:00+09:00",
+      "url": "https://jat.connpass.com/event/382813/",
+      "groupName": "Japan Azure Travelers",
+      "place": "ドリーム・アーツ広島本社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 393450,
+      "title": ".NETラボ 勉強会 2026年7月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-07-25T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/393450/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 393431,
+      "title": "AI Dev Day 2026",
+      "catch": "Azure AIを活用する開発者たちの年次カンファレンス",
+      "startedAt": "2026-07-24T09:30:00+09:00",
+      "url": "https://azureai.connpass.com/event/393431/",
+      "groupName": "Azure AI Developers Community(JP)",
+      "place": "大手町プレイスホール&カンファレンス",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 397514,
+      "title": "【AI Dev Day前夜祭】GitHub Copilot時代の開発のあり方を再定義する",
+      "catch": "MS本社チーム来日! AIエージェント開発者のためのカンファレンスAI Dev Dayとのコラボ企画",
+      "startedAt": "2026-07-23T19:00:00+09:00",
+      "url": "https://aid.connpass.com/event/397514/",
+      "groupName": "AI駆動開発(AI-Driven Development)",
+      "place": "日本マイクロソフト品川オフィス",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 398633,
+      "title": "AI時代のDevOps再入門｜元GitHub Brian Randell来日",
+      "catch": "【日本語字幕付】元GitHubエンジニアが語る、AI時代の開発プロセス",
+      "startedAt": "2026-07-14T19:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/398633/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 394698,
+      "title": "第61回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2026-07-10T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/394698/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社 品川本社オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 397606,
+      "title": "シン・ユーザビリティテスト：ユーザビリティテスト環境の再設計",
+      "catch": "プロダクトマネジメントとUI/UXデザインを考える会 vol.3",
+      "startedAt": "2026-07-07T19:00:00+09:00",
+      "url": "https://wbccollege.connpass.com/event/397606/",
+      "groupName": "WBCカレッジ",
+      "place": "株式会社アピリッツ",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 395936,
+      "title": "【満員御礼増枠！】AI時代のエンジニア生存戦略",
+      "catch": "AIに代替されるか、自身の価値を発揮するか。 その分岐点は、もう始まっている。",
+      "startedAt": "2026-07-06T19:30:00+09:00",
+      "url": "https://rosca.connpass.com/event/395936/",
+      "groupName": "Dev's Garden",
+      "place": "Dev's Garden",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 390843,
+      "title": ".NETラボ 勉強会 2026年6月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-06-27T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/390843/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 382740,
+      "title": "くさば生誕祭 & New Microsoft MVP誕生祭バー",
+      "catch": "",
+      "startedAt": "2026-06-26T18:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/382740/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 390197,
+      "title": "Findy オフラインシリーズ感謝祭 〜先陣たちの宴〜",
+      "catch": "〜発信から掴んだ軌跡〜",
+      "startedAt": "2026-06-25T18:30:00+09:00",
+      "url": "https://findy.connpass.com/event/390197/",
+      "groupName": "ファインディ／Findy",
+      "place": "アートヴィレッジ大崎セントラルタワー",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 394093,
+      "title": "第1回 みんなの自宅鯖LT会",
+      "catch": "新宿（初台）近辺で自宅鯖を話し合いましょう",
+      "startedAt": "2026-06-20T13:30:00+09:00",
+      "url": "https://homeserver.connpass.com/event/394093/",
+      "groupName": "みんなの自宅鯖LT会",
+      "place": "ふれあい貸し会議室 新宿セイコー",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 390193,
+      "title": "【現地orオンライン】第 11 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2026-06-19T19:30:00+09:00",
+      "url": "https://jazug.connpass.com/event/390193/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 395247,
+      "title": "Hack Azure #22 - Build 2026 Serverless Re-cap!",
+      "catch": "今年の Microsoft Build も Serverless 系アップデートがアツい！",
+      "startedAt": "2026-06-18T19:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/395247/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 395350,
+      "title": "Microsoft Build ふりかえり会 @ Avanade Japan",
+      "catch": "",
+      "startedAt": "2026-06-12T19:00:00+09:00",
+      "url": "https://avanadejapantech.connpass.com/event/395350/",
+      "groupName": "Avanade Japan Tech",
+      "place": "アバナードオフィス：カフェスペース",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 393156,
+      "title": "AI時代のエンジニア生存戦略（7/6に変更となりました）",
+      "catch": "AIに代替されるか、自身の価値を発揮するか。 その分岐点は、もう始まっている。",
+      "startedAt": "2026-06-03T19:30:00+09:00",
+      "url": "https://rosca.connpass.com/event/393156/",
+      "groupName": "Dev's Garden",
+      "place": "MOSH株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 389861,
+      "title": "Microsoft Buildを徹夜するBar",
+      "catch": "",
+      "startedAt": "2026-06-02T20:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/389861/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 392979,
+      "title": "超dotnet new",
+      "catch": "",
+      "startedAt": "2026-05-29T18:30:00+09:00",
+      "url": "https://dotnetnew.connpass.com/event/392979/",
+      "groupName": "dotnet new",
+      "place": "日本マイクロソフト品川オフィス VIP Board Room(予定)",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 391767,
+      "title": "4本足のパートナー“聴導犬“と考えるアクセシビリティ｜A11y Tokyo Meetup",
+      "catch": "日本補助犬情報センター理事の松本江理さんとパートナー聴導犬チャンプを迎えて",
+      "startedAt": "2026-05-28T19:30:00+09:00",
+      "url": "https://a11ytyo.connpass.com/event/391767/",
+      "groupName": "A11y Tokyo Meetup",
+      "place": "LODGE（LINEヤフー株式会社　紀尾井町オフィス）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 391200,
+      "title": "GitHub Copilot CLI を装備せよ 〜実践テクニック共有会 LT Night〜",
+      "catch": "TECH BATON in 東京オフラインシリーズ！",
+      "startedAt": "2026-05-25T19:00:00+09:00",
+      "url": "https://findy.connpass.com/event/391200/",
+      "groupName": "ファインディ／Findy",
+      "place": "Findy イベントスペース",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 386362,
+      "title": ".NETラボ 勉強会 2026年5月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-05-23T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/386362/",
+      "groupName": ".NETラボ",
+      "place": "虎ノ門ヒルズ ビジネスタワー 29F",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 391733,
+      "title": "第60回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2026-05-21T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/391733/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社 品川本社オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 386796,
+      "title": "第十三回技術書同人誌博覧会 懇親会",
+      "catch": "",
+      "startedAt": "2026-05-10T17:30:00+09:00",
+      "url": "https://gishohaku.connpass.com/event/386796/",
+      "groupName": "技術書同人誌博覧会",
+      "place": "大田区産業プラザPiO",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 372013,
+      "title": "第十三回技術書同人誌博覧会",
+      "catch": "",
+      "startedAt": "2026-05-10T11:00:00+09:00",
+      "url": "https://gishohaku.connpass.com/event/372013/",
+      "groupName": "技術書同人誌博覧会",
+      "place": "大田区産業プラザ（1F大展示ホール）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 389325,
+      "title": "【懇親会】クラウドネイティブ会議プレイベント in Nagoya × 俺の勉強会1周年祭",
+      "catch": "名古屋の有名なクラフトビールとBBQを楽しみましょう！",
+      "startedAt": "2026-04-29T18:00:00+09:00",
+      "url": "https://ore-no-benkyoukai.connpass.com/event/389325/",
+      "groupName": "俺の勉強会",
+      "place": "クラフトビール＆Tボーンステーキ　柳橋TERRACE",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 388640,
+      "title": "クラウドネイティブ会議プレイベント in Nagoya × 俺の勉強会1周年祭",
+      "catch": "クラウドネイティブ会議のプレイベント・俺の勉強会1周年祭を名古屋の観光スポットで！",
+      "startedAt": "2026-04-29T10:00:00+09:00",
+      "url": "https://ore-no-benkyoukai.connpass.com/event/388640/",
+      "groupName": "俺の勉強会",
+      "place": "名古屋城本丸御殿孔雀之間",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 383200,
+      "title": "GitHub Copilot Dev Days Tokyo- .NETラボ 勉強会 2026年4月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-04-25T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/383200/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 386399,
+      "title": "Global Azure 2026 @ Tokyo",
+      "catch": "Let’s Build the Future Together!",
+      "startedAt": "2026-04-18T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/386399/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 388425,
+      "title": "オフライン交流会 ＋ CSUNカンファレンス2026 参加報告｜A11y Tokyo Meetup",
+      "catch": "隔月開催のオフライン交流会。今回は、カンファレンス参加報告をメインに、恵比寿で開催！",
+      "startedAt": "2026-04-17T19:30:00+09:00",
+      "url": "https://a11ytyo.connpass.com/event/388425/",
+      "groupName": "A11y Tokyo Meetup",
+      "place": "コミュニケーションスペース　amu",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 388858,
+      "title": "現場のプロが語るWebアクセシビリティLT会 第1回　〜デザインと開発の現場から届けるリアル〜",
+      "catch": "",
+      "startedAt": "2026-04-14T19:00:00+09:00",
+      "url": "https://wbccollege.connpass.com/event/388858/",
+      "groupName": "WBCカレッジ",
+      "place": "株式会社アピリッツ",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 384080,
+      "title": "【劇場版】アニメから得た学びを発表会2026【個人スポンサー】",
+      "catch": "アニメと仕事、交差する瞬間。 あなたの「好き」が、仕事の「力」になる。",
+      "startedAt": "2026-04-11T23:30:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/384080/",
+      "groupName": "エンジニアニメ",
+      "place": "",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 381501,
+      "title": "【劇場版】アニメから得た学びを発表会2026【懇親会】",
+      "catch": "アニメと仕事、交差する瞬間。 あなたの「好き」が、仕事の「力」になる。",
+      "startedAt": "2026-04-11T19:00:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/381501/",
+      "groupName": "エンジニアニメ",
+      "place": "武蔵野スイングホール レインボーサロン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 375981,
+      "title": "【劇場版】アニメから得た学びを発表会2026",
+      "catch": "アニメと仕事、交差する瞬間。 あなたの「好き」が、仕事の「力」になる。",
+      "startedAt": "2026-04-11T10:30:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/375981/",
+      "groupName": "エンジニアニメ",
+      "place": "武蔵野プレイス フォーラム",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 387942,
+      "title": "アクセシビリティ対応の「どこまでやる？」を言語化する　~チームで迷わないための設計と判断基準~",
+      "catch": "",
+      "startedAt": "2026-04-10T12:00:00+09:00",
+      "url": "https://findy.connpass.com/event/387942/",
+      "groupName": "ファインディ／Findy",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 387553,
+      "title": "GitHub Copilotを極める会 - 開発者のための活用術",
+      "catch": "",
+      "startedAt": "2026-04-08T12:00:00+09:00",
+      "url": "https://findy.connpass.com/event/387553/",
+      "groupName": "ファインディ／Findy",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 382472,
+      "title": "シアトルに行ってきたバー",
+      "catch": "",
+      "startedAt": "2026-04-03T18:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/382472/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 385878,
+      "title": "明日から使えるAI活用術！",
+      "catch": "",
+      "startedAt": "2026-03-25T19:30:00+09:00",
+      "url": "https://sakurug.connpass.com/event/385878/",
+      "groupName": "株式会社SAKURUG",
+      "place": "Zoom",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 378930,
+      "title": ".NETラボ 勉強会 2026年3月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-03-20T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/378930/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 383390,
+      "title": "なごあずの集い#8 懇親会",
+      "catch": "懇親会用の参加申込となります。",
+      "startedAt": "2026-03-14T18:00:00+09:00",
+      "url": "https://75az.connpass.com/event/383390/",
+      "groupName": "なごあず（JAZUG 名古屋支部）",
+      "place": "塚田農場名駅店",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 383389,
+      "title": "なごあずの集い#8",
+      "catch": "クラウドを学び、つながる – 名古屋でMicrosoft Azureを体感するコミュニティイベント",
+      "startedAt": "2026-03-14T15:30:00+09:00",
+      "url": "https://75az.connpass.com/event/383389/",
+      "groupName": "なごあず（JAZUG 名古屋支部）",
+      "place": "日立ソリューションズ 中部事業所",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 384637,
+      "title": "シネマ de LT会#2 〜Back to the Screen〜",
+      "catch": "イオンスマートテクノロジー株式会社、株式会社DELTA、株式会社ヘンリー presents",
+      "startedAt": "2026-03-05T19:00:00+09:00",
+      "url": "https://aeon.connpass.com/event/384637/",
+      "groupName": "AEON",
+      "place": "イオンシネマ シアタス調布",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 382036,
+      "title": "【現地orオンライン】第 10 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2026-03-04T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/382036/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 385348,
+      "title": "Microsoft Agent Framework x Chainlit ハンズオン",
+      "catch": "Microsoft Agent Framework でチャットアプリ開発実践",
+      "startedAt": "2026-03-03T19:00:00+09:00",
+      "url": "https://cogbot.connpass.com/event/385348/",
+      "groupName": "Cogbot コミュニティ",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 378424,
+      "title": ".NETラボ 勉強会 2026年2月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-02-28T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/378424/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 378357,
+      "title": "懇親会withしまや出版（午後の部枠）",
+      "catch": "",
+      "startedAt": "2026-02-21T17:30:00+09:00",
+      "url": "https://gishohaku.connpass.com/event/378357/",
+      "groupName": "技術書同人誌博覧会",
+      "place": "うどん屋 清",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 377922,
+      "title": "同人誌印刷所見学ツアー2026@しまや出版（午後の部）",
+      "catch": "あなたの技術同人誌が本になるまで",
+      "startedAt": "2026-02-21T14:00:00+09:00",
+      "url": "https://gishohaku.connpass.com/event/377922/",
+      "groupName": "技術書同人誌博覧会",
+      "place": "しまや出版",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 381685,
+      "title": "第58回 Tokyo Jazug Night",
+      "catch": "2026年初のTokyo Jazug Nightっ！",
+      "startedAt": "2026-02-13T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/381685/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社 品川本社オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 380747,
+      "title": "開発にどう組み込む？AIエージェント選定ガイド",
+      "catch": "〜Claude Code / Cursor / GitHub Copilot 実務比較〜",
+      "startedAt": "2026-01-30T12:00:00+09:00",
+      "url": "https://findy.connpass.com/event/380747/",
+      "groupName": "ファインディ／Findy",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 380913,
+      "title": "AI Agent Builders Meetup",
+      "catch": "AIエージェント構築/運用の知見を、ベンダーフリーで共有しよう！",
+      "startedAt": "2026-01-28T19:00:00+09:00",
+      "url": "https://minorun365.connpass.com/event/380913/",
+      "groupName": "みのるんのゲリラ勉強会",
+      "place": "レバレジーズ株式会社 渋谷一丁目支店",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 374748,
+      "title": ".NETラボ 勉強会 2026年1月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-01-24T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/374748/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 376499,
+      "title": "Microsoft MVPと語り合うバー",
+      "catch": "",
+      "startedAt": "2026-01-23T18:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/376499/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 375717,
+      "title": "Ignite RecapしてM5Stack猫耳を作りわいがや2周年を祝う会 with DJ みかん",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2025-12-25T19:00:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/375717/",
+      "groupName": "Azureわいがや会",
+      "place": "アララ株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 375673,
+      "title": "第57回 Tokyo Jazug Night",
+      "catch": "Microsoft Ignite Local Edition 年末恒例大LT大会！！",
+      "startedAt": "2025-12-22T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/375673/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 373811,
+      "title": ".NET Conf 2025 Tokyo懇親会",
+      "catch": "",
+      "startedAt": "2025-12-20T18:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/373811/",
+      "groupName": ".NETラボ",
+      "place": "",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 373802,
+      "title": ".NET Conf 2025 Osaka 懇親会",
+      "catch": "",
+      "startedAt": "2025-12-20T18:30:00+09:00",
+      "url": "https://connpass.com/event/373802/",
+      "groupName": "",
+      "place": "",
+      "roles": [
+        "organizing"
+      ]
+    },
+    {
+      "id": 371159,
+      "title": ".NET Conf 2025 Tokyo Osaka Fukuoka",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-12-20T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/371159/",
+      "groupName": ".NETラボ",
+      "place": "アバナード株式会社カフェスペース",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 373801,
+      "title": ".NET Conf 2025 Osaka x Fukuoka x Tokyo",
+      "catch": ".NET Conf 2025 ローカルイベント＠大阪",
+      "startedAt": "2025-12-20T13:00:00+09:00",
+      "url": "https://tfsug.connpass.com/event/373801/",
+      "groupName": "TFSUG",
+      "place": "ダイキン工業株式会社",
+      "roles": [
+        "organizing"
+      ]
+    },
+    {
+      "id": 371620,
+      "title": ".NET Conf 2025 Fukuoka x Tokyo x Osaka",
+      "catch": ".NET Conf 2025 ローカルイベント＠福岡",
+      "startedAt": "2025-12-20T13:00:00+09:00",
+      "url": "https://fukuten.connpass.com/event/371620/",
+      "groupName": "Fukuoka.NET（ふくてん）",
+      "place": "エンジニアカフェ",
+      "roles": [
+        "organizing"
+      ]
+    },
+    {
+      "id": 376859,
+      "title": "TechGYOZA2025 懇親会",
+      "catch": "",
+      "startedAt": "2025-12-13T17:30:00+09:00",
+      "url": "https://techgyoza.connpass.com/event/376859/",
+      "groupName": "TechGYOZA",
+      "place": "スリーハンドレッドドットコム （300.com）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 371476,
+      "title": "TechGYOZA2025",
+      "catch": "",
+      "startedAt": "2025-12-13T10:00:00+09:00",
+      "url": "https://techgyoza.connpass.com/event/371476/",
+      "groupName": "TechGYOZA",
+      "place": "小山市立 生涯学習センター ギャラリー",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 372958,
+      "title": "行く年、来る年、年忘れセキュリティ 2025",
+      "catch": "オフラインのみです！",
+      "startedAt": "2025-12-12T19:00:00+09:00",
+      "url": "https://connpass.com/event/372958/",
+      "groupName": "",
+      "place": "日本マイクロソフト 品川本社（SGT）31F/セミナールームC+D",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 378345,
+      "title": "VS Code Copilot ChatのInline suggestionsのコードを読む会",
+      "catch": "GitHub Copilot Chatへの解像度を上げるための配信",
+      "startedAt": "2025-12-09T20:00:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/378345/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（YouTube Live）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 373755,
+      "title": "なごあずの集い#7 懇親会",
+      "catch": "懇親会用の参加申込となります。",
+      "startedAt": "2025-12-06T18:00:00+09:00",
+      "url": "https://75az.connpass.com/event/373755/",
+      "groupName": "なごあず（JAZUG 名古屋支部）",
+      "place": "四川菜園",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 373754,
+      "title": "なごあずの集い#7",
+      "catch": "クラウドを学び、つながる – 名古屋でMicrosoft Azureを体感するコミュニティイベント",
+      "startedAt": "2025-12-06T15:30:00+09:00",
+      "url": "https://75az.connpass.com/event/373754/",
+      "groupName": "なごあず（JAZUG 名古屋支部）",
+      "place": "日立ソリューションズ 中部事業所",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 373452,
+      "title": "AOAI Dev Day Osaka",
+      "catch": "あのAzure OpenAI Service Dev Day 2025を大阪でMeetUP形式で開催",
+      "startedAt": "2025-12-05T14:00:00+09:00",
+      "url": "https://azureai.connpass.com/event/373452/",
+      "groupName": "Azure AI Developers Community(JP)",
+      "place": "QUINTBRIDGE 2階キッチン前",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 376796,
+      "title": "Agent Frameworkをわいがや動かす会～Durable Task Extension編～",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2025-12-02T20:00:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/376796/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 367562,
+      "title": "CLR/H #111",
+      "catch": ".NET 10 リリース記念！",
+      "startedAt": "2025-11-29T13:00:00+09:00",
+      "url": "https://clrh.connpass.com/event/367562/",
+      "groupName": "CLR/H",
+      "place": "クラスメソッド株式会社 札幌オフィス 会議室",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 373782,
+      "title": "CLR/H #111　前夜祭（28日）＆当日（29日）懇親会",
+      "catch": "両方まとめて１ページ！",
+      "startedAt": "2025-11-28T19:00:00+09:00",
+      "url": "https://clrh.connpass.com/event/373782/",
+      "groupName": "CLR/H",
+      "place": "未定",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 369988,
+      "title": "Microsoft MVPを語るバー",
+      "catch": "",
+      "startedAt": "2025-11-23T13:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/369988/",
+      "groupName": "Microsoft MVPバー",
+      "place": "エデン難波",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 373020,
+      "title": ".NETラボ2025年11月懇親会",
+      "catch": "",
+      "startedAt": "2025-11-22T19:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/373020/",
+      "groupName": ".NETラボ",
+      "place": "香港飲茶 柏林苑‐HAKURINEN‐ 北浜",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 364122,
+      "title": "【大阪出張編】.NETラボ 勉強会 2025年11月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-11-22T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/364122/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne大阪支店",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 373664,
+      "title": "超速報！サンフランシスコからお届けする Microsoft Ignite レポート",
+      "catch": "",
+      "startedAt": "2025-11-19T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/373664/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 369987,
+      "title": "Microsoft MVPとMicrosoft Igniteの日に徹夜するバー",
+      "catch": "",
+      "startedAt": "2025-11-18T20:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/369987/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 372075,
+      "title": "第56回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2025-11-13T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/372075/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 371580,
+      "title": "挫折から学ぶLT大会 #2 ～ありがとう、過去の自分！～",
+      "catch": "待望の第2回！挫折や失敗から学ぶ、ちょっとイイ話（オンラインのみ）",
+      "startedAt": "2025-11-09T14:00:00+09:00",
+      "url": "https://minna-no-monogatari.connpass.com/event/371580/",
+      "groupName": "みんなの物語コミュニティ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 366468,
+      "title": "積読、崩すぞ！技書博読了会",
+      "catch": "〜買って終わりじゃない！同人誌の魅力を再発見〜",
+      "startedAt": "2025-11-05T19:00:00+09:00",
+      "url": "https://yumenosora.connpass.com/event/366468/",
+      "groupName": "虎の穴ラボ(とらのあな)",
+      "place": "さくらインターネット東京支社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 352601,
+      "title": "第十二回技術書同人誌博覧会",
+      "catch": "",
+      "startedAt": "2025-10-26T10:30:00+09:00",
+      "url": "https://gishohaku.connpass.com/event/352601/",
+      "groupName": "技術書同人誌博覧会",
+      "place": "ソニックシティ",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 366516,
+      "title": ".NETラボ 勉強会 2025年10月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-10-25T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/366516/",
+      "groupName": ".NETラボ",
+      "place": "ピクシブ株式会社本社ビル",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 372534,
+      "title": "東京マラソンについて語るバー",
+      "catch": "",
+      "startedAt": "2025-10-14T18:00:00+09:00",
+      "url": "https://msmvpbar.connpass.com/event/372534/",
+      "groupName": "Microsoft MVPバー",
+      "place": "イベントバーエデン日暮里",
+      "roles": [
+        "organizing"
+      ]
+    },
+    {
+      "id": 371889,
+      "title": "良さげと噂のMicrosoft Agent Frameworkをわいがや動かす会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2025-10-09T20:00:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/371889/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 364233,
+      "title": "Japan Azure User Group 15周年イベント",
+      "catch": "Japan Azure Travelers コラボで盛り上がろう！",
+      "startedAt": "2025-10-04T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/364233/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社 品川本社オフィス 31F セミナールーム B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 358411,
+      "title": "第7回 Azure Travelers 勉強会 東京の旅の前夜祭(屋台船で LT 大会)",
+      "catch": "",
+      "startedAt": "2025-10-03T19:00:00+09:00",
+      "url": "https://jat.connpass.com/event/358411/",
+      "groupName": "Japan Azure Travelers",
+      "place": "屋形船",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 364907,
+      "title": ".NETラボ 勉強会 2025年9月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-09-27T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/364907/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 366330,
+      "title": "なごあずの集い#6",
+      "catch": "クラウドを学び、つながる – 名古屋でMicrosoft Azureを体感するコミュニティイベント",
+      "startedAt": "2025-09-20T15:30:00+09:00",
+      "url": "https://75az.connpass.com/event/366330/",
+      "groupName": "なごあず（JAZUG 名古屋支部）",
+      "place": "日立ソリューションズ 中部事業所",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 367733,
+      "title": "VS Code Copilot Chatのコードを読む【GitHub Vibe Riders】",
+      "catch": "GitHub Copilot Chatへの解像度を上げるための配信",
+      "startedAt": "2025-09-19T20:30:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/367733/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（YouTube Live）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 368692,
+      "title": "自然言語でGitHub Actionsを作成できる Agentic Workflowsを検証する会",
+      "catch": "GitHub Nextの機能を検証する会 × GitHub Vibe Riders",
+      "startedAt": "2025-09-13T10:30:00+09:00",
+      "url": "https://github-dockyard.connpass.com/event/368692/",
+      "groupName": "GitHub dockyard",
+      "place": "YouTube @github-dockyard",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 362026,
+      "title": "【現地orオンライン】第 8 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2025-09-12T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/362026/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 366676,
+      "title": "みんなでGitHub Sparkを使い倒そうぜ！【GitHub Vibe Riders初配信】",
+      "catch": "自然言語でアプリを生成できるGitHub Sparkを使い倒す配信",
+      "startedAt": "2025-08-29T20:30:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/366676/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（YouTube Live）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 361507,
+      "title": ".NETラボ 勉強会 2025年8月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-08-23T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/361507/",
+      "groupName": ".NETラボ",
+      "place": "FutureOne",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 361970,
+      "title": "JAZUG×なんでもCopilot　夏休み特大号",
+      "catch": "なんでもCopilotとのコラボ企画！",
+      "startedAt": "2025-08-16T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/361970/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 362533,
+      "title": "【劇場版】アニメから得た学びを発表会2025 二次会",
+      "catch": "「【劇場版】アニメから得た学びを発表会2025」終了後の懇親会です（アルコールあり）",
+      "startedAt": "2025-08-10T20:00:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/362533/",
+      "groupName": "エンジニアニメ",
+      "place": "COCKTAIL HAMBURGERS",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 360301,
+      "title": "【劇場版】アニメから得た学びを発表会2025",
+      "catch": "アニメと仕事、交差する瞬間。 あなたの「好き」が、仕事の「力」になる。",
+      "startedAt": "2025-08-10T11:00:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/360301/",
+      "groupName": "エンジニアニメ",
+      "place": "武蔵野プレイス フォーラム",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 360822,
+      "title": "Microsoft Azure なんでも会 summer #2（LT初心者・初参加の方大歓迎！）",
+      "catch": "Microsoft Azure関連の初心者コミュニティです！",
+      "startedAt": "2025-08-09T15:00:00+09:00",
+      "url": "https://wazug.connpass.com/event/360822/",
+      "groupName": "WAZUG (Wakamono Azure User Group)",
+      "place": "ファインディ株式会社",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 362908,
+      "title": "なんでもCopilot（プレビュー）#1「神の領域に迫る」",
+      "catch": "なんと枠が増えました",
+      "startedAt": "2025-08-06T22:00:00+09:00",
+      "url": "https://nandemo.connpass.com/event/362908/",
+      "groupName": "なんでもCopilot",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 364891,
+      "title": "【配信】.NET 10 Preview 6！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2025-08-06T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/364891/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 361367,
+      "title": "フルスタックテスティング - Forkwell Library#101",
+      "catch": "10のテスト手法で実践する高品質ソフトウェア開発",
+      "startedAt": "2025-08-04T19:30:00+09:00",
+      "url": "https://forkwell.connpass.com/event/361367/",
+      "groupName": "Forkwell Community",
+      "place": "Forkwell イベント視聴ページ",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 358430,
+      "title": ".NETラボ 勉強会 2025年7月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-07-26T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/358430/",
+      "groupName": ".NETラボ",
+      "place": "株式会社エーピーコミュニケーションズ",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 361159,
+      "title": "なんでもCopilot#38「The Future of AI Communication」",
+      "catch": "3月から毎週になりました",
+      "startedAt": "2025-07-16T20:00:00+09:00",
+      "url": "https://nandemo.connpass.com/event/361159/",
+      "groupName": "なんでもCopilot",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 360345,
+      "title": "Let's Learn MCP - 昼休みに MCP の基本から学ぶ配信 #LetsLearnMCP",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2025-07-16T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/360345/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 359682,
+      "title": "第55回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2025-07-15T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/359682/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 359953,
+      "title": "GitHub Copilot活用術~MCP・レビュー・issue・Coding Agentまで！~",
+      "catch": "",
+      "startedAt": "2025-07-15T19:00:00+09:00",
+      "url": "https://findy-tools.connpass.com/event/359953/",
+      "groupName": "Findy Tools",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 361466,
+      "title": "バックエンドでどこまでVibe Codingできる？1時間で完成するまでわいがや検証する会 #2",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2025-07-09T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/361466/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 360954,
+      "title": "バックエンドでどこまでVibe Codingできる？1時間で完成するまでわいがや検証する会 #1",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2025-07-03T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/360954/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 360048,
+      "title": "なんでもCopilot#36「GitHubとAzureを使って開発者になろう」",
+      "catch": "3月から毎週になりました",
+      "startedAt": "2025-07-02T20:00:00+09:00",
+      "url": "https://nandemo.connpass.com/event/360048/",
+      "groupName": "なんでもCopilot",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 351953,
+      "title": "GitHub Copilot Bootcamp .NETラボ 勉強会 2025年6月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-06-28T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/351953/",
+      "groupName": ".NETラボ",
+      "place": "日本マイクロソフト品川オフィス",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 355696,
+      "title": "なんでもCopilot#35「エバンジェリスト西脇資哲さんご登壇！なんコパ1周年！」",
+      "catch": "ひみつのトークはオフラインのみです！",
+      "startedAt": "2025-06-25T19:00:00+09:00",
+      "url": "https://nandemo.connpass.com/event/355696/",
+      "groupName": "なんでもCopilot",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 355960,
+      "title": "第2回 JAZUG Fukuoka ～ Azureの知識地図を語る！",
+      "catch": "Azureの知識地図の著者陣と一緒にイベントをやります！",
+      "startedAt": "2025-06-22T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/355960/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "株式会社Fusic",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 353297,
+      "title": "【アーカイブ配信中】生成AI×社会課題 Tech Conference by WAKE Career",
+      "catch": "生成AI社会課題ハッカソンピッチ＆アワード2025表彰式&特別セッション！盛りだくさんの1日！",
+      "startedAt": "2025-06-21T13:00:00+09:00",
+      "url": "https://wake-career.connpass.com/event/353297/",
+      "groupName": "WAKE Career （ウェイクキャリア）",
+      "place": "8Fイベントスペース「SmartHR Space」",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 354108,
+      "title": "第54回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2025-06-18T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/354108/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 348698,
+      "title": "【現地orオンライン】第 7 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2025-06-13T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/348698/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 355294,
+      "title": "なんでもCopilot#33「miyakeさんと木澤さんと新コパPC触りながら1周年プレパーティ！」",
+      "catch": "オフラインのみです！",
+      "startedAt": "2025-06-11T19:00:00+09:00",
+      "url": "https://nandemo.connpass.com/event/355294/",
+      "groupName": "なんでもCopilot",
+      "place": "JBS 虎ノ門ヒルズ森タワーオフィス",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 351040,
+      "title": "【初心者歓迎】３大クラウドAIエージェント勉強会",
+      "catch": "AWS, Azure, Google Cloud のスペシャリストによるパネルディスカッション",
+      "startedAt": "2025-06-05T20:00:00+09:00",
+      "url": "https://cloudtech.connpass.com/event/351040/",
+      "groupName": "CloudTech",
+      "place": "Youtube Live",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 356052,
+      "title": "Hack Azure #20 - Microsoft Build 2025 Re-cap!",
+      "catch": "現地の熱気をお届け！Serverless系アップデート速報",
+      "startedAt": "2025-05-28T19:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/356052/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 355846,
+      "title": "Microsoft Build 2025 - AI 最新情報ダイジェスト",
+      "catch": "Cogbot Meetup #47 で最新情報を収集ダネ(๑•̀ㅂ•́)و",
+      "startedAt": "2025-05-27T19:00:00+09:00",
+      "url": "https://cogbot.connpass.com/event/355846/",
+      "groupName": "Cogbot コミュニティ",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 351459,
+      "title": "Microsoft Season of Agent .NETラボ 勉強会 2025年5月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-05-24T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/351459/",
+      "groupName": ".NETラボ",
+      "place": "日本マイクロソフト品川オフィス",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 353197,
+      "title": "超速報！現地からお届けする Microsoft Build レポート",
+      "catch": "",
+      "startedAt": "2025-05-20T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/353197/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 352070,
+      "title": "シネマ de LT会〜あなたのナレッジ大上映〜",
+      "catch": "イオンスマートテクノロジー株式会社、株式会社DELTA、株式会社ヘンリー presents",
+      "startedAt": "2025-05-14T19:00:00+09:00",
+      "url": "https://aeon.connpass.com/event/352070/",
+      "groupName": "AEON",
+      "place": "イオンシネマ シアタス調布",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 348980,
+      "title": "Global Azure 2025",
+      "catch": "年に一度のAzureコミュニティ祭りGlobal Azure 2025！",
+      "startedAt": "2025-05-10T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/348980/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 352118,
+      "title": "AI Agent 勉強会",
+      "catch": "AIエンジニアリングの最前線を気軽にシェア",
+      "startedAt": "2025-05-09T19:30:00+09:00",
+      "url": "https://almondo.connpass.com/event/352118/",
+      "groupName": "Almondo",
+      "place": "Next Base",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 347756,
+      "title": "【AI駆動開発Conference Spring 2025】- 現地参加登録サイト",
+      "catch": "AI・LLMを活用したアプリ・システム開発スタイルの到来！！ 世界初 AI駆動開発のカンファレンス。",
+      "startedAt": "2025-05-07T11:00:00+09:00",
+      "url": "https://aid.connpass.com/event/347756/",
+      "groupName": "AI駆動開発(AI-Driven Development)",
+      "place": "日本マイクロソフト品川オフィス セミナールームC+D",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 350190,
+      "title": ".NETラボ 勉強会 2025年4月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-04-26T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/350190/",
+      "groupName": ".NETラボ",
+      "place": "プログライブコンサルティング",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 351023,
+      "title": "なんでもCopilot#25「世界的プログラマーのGitHub Copilotの使い方！」",
+      "catch": "3月から毎週になります！",
+      "startedAt": "2025-04-16T20:00:00+09:00",
+      "url": "https://nandemo.connpass.com/event/351023/",
+      "groupName": "なんでもCopilot",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 346415,
+      "title": "第53回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2025-03-25T19:30:00+09:00",
+      "url": "https://jazug.connpass.com/event/346415/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 347207,
+      "title": ".NETラボ 勉強会 2025年3月(LT成分多め)",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-03-22T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/347207/",
+      "groupName": ".NETラボ",
+      "place": "富士ソフト汐留オフィス",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 345820,
+      "title": "ノーコードでマルチエージェントワークフローを構築できるAutoGen Studioをわいがや動かす会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2025-03-21T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/345820/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 348538,
+      "title": "Developers Night Cafe ~第2回 Copilot Studio の最前線～",
+      "catch": "くらでべチャンネル　ライブ配信　3月13日",
+      "startedAt": "2025-03-13T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/348538/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "くらでべチャンネル",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 345154,
+      "title": "Global AI BootCamp - AOAI Dev Day プレイベント",
+      "catch": "AI Agent ,AI駆動開発まで聞きたい方集まれ！",
+      "startedAt": "2025-03-11T19:00:00+09:00",
+      "url": "https://azureai.connpass.com/event/345154/",
+      "groupName": "Azure AI Developers Community(JP)",
+      "place": "日本ビジネスシステムズ株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 345849,
+      "title": "昼休みに GitHub Copilot をさわってみよう配信",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2025-03-10T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/345849/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 339549,
+      "title": "【現地orオンライン】第 6 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2025-03-07T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/339549/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 344442,
+      "title": "はじめてのラズパイ！IoTにわいがや入門する会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2025-02-24T12:30:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/344442/",
+      "groupName": "Azureわいがや会",
+      "place": "日本橋栄ビル 6F",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 344101,
+      "title": ".NETラボ 勉強会 2025年2月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-02-22T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/344101/",
+      "groupName": ".NETラボ",
+      "place": "ピクシブ株式会社本社ビル",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 343342,
+      "title": "第52回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2025-02-19T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/343342/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 344142,
+      "title": "Hack Azure! #19 - Cosmos DB Fan Meeting 2025",
+      "catch": "Cosmos DB チームを招いたスペシャルイベント！",
+      "startedAt": "2025-02-13T18:30:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/344142/",
+      "groupName": "Hack Everything.",
+      "place": "日本マイクロソフト品川本社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 342057,
+      "title": "AI駆動開発 ツール活用事例に学ぶ新たな開発手法の可能性",
+      "catch": "",
+      "startedAt": "2025-02-05T12:00:00+09:00",
+      "url": "https://findy.connpass.com/event/342057/",
+      "groupName": "ファインディ／Findy",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 341044,
+      "title": ".NETラボ 勉強会 2025年1月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2025-01-25T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/341044/",
+      "groupName": ".NETラボ",
+      "place": "Findy",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 339167,
+      "title": "第51回 Tokyo Jazug Night",
+      "catch": "あけおめ！AI祭り！",
+      "startedAt": "2025-01-21T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/339167/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 333954,
+      "title": ".NET Conf 2024 Fukuoka x Osaka",
+      "catch": ".NET Conf 2024 ローカルイベント＠福岡",
+      "startedAt": "2025-01-11T13:00:00+09:00",
+      "url": "https://fukuten.connpass.com/event/333954/",
+      "groupName": "Fukuoka.NET（ふくてん）",
+      "place": "ジーズアカデミー福岡",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 338759,
+      "title": "【わいがや会1周年】Fine Tuningでふるまいを学習させるまでサンタを帰さない【初の現地単独】",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-12-25T19:00:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/338759/",
+      "groupName": "Azureわいがや会",
+      "place": "アララ株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 339513,
+      "title": "Hack Azure! #18 - Durable Functions 特集！",
+      "catch": "今年も年末はプロダクトの中の人を招いてディープダイブ！今回はオフライン参加もあり！",
+      "startedAt": "2024-12-23T19:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/339513/",
+      "groupName": "Hack Everything.",
+      "place": "KINTOテクノロジーズ株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 333400,
+      "title": ".NET Conf 2024 .NETラボ 勉強会 2024年12月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-12-21T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/333400/",
+      "groupName": ".NETラボ",
+      "place": "日本マイクロソフト品川オフィス",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 335527,
+      "title": "第50回 Tokyo Jazug Night",
+      "catch": "みんなで年末のカウントダウン！久しぶりのLT大会開催！",
+      "startedAt": "2024-12-18T19:30:00+09:00",
+      "url": "https://jazug.connpass.com/event/335527/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 337527,
+      "title": "Active Directory 勉強会 第 4 回目",
+      "catch": "Windows Server 2025 リリース記念イベント",
+      "startedAt": "2024-12-17T19:00:00+09:00",
+      "url": "https://configmgr.connpass.com/event/337527/",
+      "groupName": "Japan Microsoft Endpoint Configuration Manager UG",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 334045,
+      "title": "【登壇者募集中】.NET Conf 2024 後！ C# Tokyo カンファレンス",
+      "catch": "",
+      "startedAt": "2024-12-09T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/334045/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 331400,
+      "title": "【現地orオンライン】第 5 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2024-12-06T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/331400/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 338803,
+      "title": "ソフトウェア開発ライフサイクルを進化させるGitHub Universe 2024の最新トピック",
+      "catch": "Software Development LifeCycle(SDLC)",
+      "startedAt": "2024-12-05T12:00:00+09:00",
+      "url": "https://connpass.com/event/338803/",
+      "groupName": "",
+      "place": "オンライン(Teams)",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 338083,
+      "title": "AutoGenをわいがや動かしてみる会(企画変更しました）",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-12-03T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/338083/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 335130,
+      "title": "Visual Studio Users Community Japan 勉強会 #7",
+      "catch": ".NET Conf 2024 in Roppongi Tokyo",
+      "startedAt": "2024-11-30T13:30:00+09:00",
+      "url": "https://vsuc.connpass.com/event/335130/",
+      "groupName": "Visual Studio Users Community Japan",
+      "place": "アバナード株式会社 カフェスペース",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 337147,
+      "title": "Hack Azure! #17 - Microsoft Ignite 2024 Recap!",
+      "catch": "Ignite の注目トピックを最速 Recap！ GitHub Universe 情報も！",
+      "startedAt": "2024-11-25T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/337147/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 334612,
+      "title": ".NETラボ 勉強会 2024年11月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-11-23T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/334612/",
+      "groupName": ".NETラボ",
+      "place": "株式会社エーピーコミュニケーションズ",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 336399,
+      "title": "なんでもCopilot#11「エンジニアも非エンジニアも必見！GitHub Copilot入門」",
+      "catch": "",
+      "startedAt": "2024-11-20T20:00:00+09:00",
+      "url": "https://nandemo.connpass.com/event/336399/",
+      "groupName": "なんでもCopilot",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 335235,
+      "title": "超速報！シカゴからお届けする Microsoft Ignite レポート",
+      "catch": "",
+      "startedAt": "2024-11-20T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/335235/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 333961,
+      "title": "【増枠】イマドキのC#/.NET開発 〜最新の言語とフレームワークの使い方〜",
+      "catch": "",
+      "startedAt": "2024-11-18T19:00:00+09:00",
+      "url": "https://sansan.connpass.com/event/333961/",
+      "groupName": "Sansan株式会社",
+      "place": "Sansan株式会社 本社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 334629,
+      "title": "【オンライン】第1回 JAZUG Fukuoka リブートイベント",
+      "catch": "ふくあず を JAZUG Fukuoka として再始動します！！",
+      "startedAt": "2024-11-11T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/334629/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 333720,
+      "title": "VS Code Meetup #32 - VS Code x Copilot",
+      "catch": "AI駆動開発の最前線とAIによるVS Codeの拡張",
+      "startedAt": "2024-11-08T19:00:00+09:00",
+      "url": "https://vscode.connpass.com/event/333720/",
+      "groupName": "VS Code Meetup",
+      "place": "アララ株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 333111,
+      "title": ".NETラボ 勉強会 2024年10月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-10-26T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/333111/",
+      "groupName": ".NETラボ",
+      "place": "プログライブコンサルティング",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 333965,
+      "title": "【配信】.NET 9 RC 2！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2024-10-17T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/333965/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 331414,
+      "title": "Hatena Engineer Seminar #31 「少年ジャンプ＋」 サーバーサイド編",
+      "catch": "",
+      "startedAt": "2024-10-15T18:00:00+09:00",
+      "url": "https://hatena.connpass.com/event/331414/",
+      "groupName": "Hatena Engineer Seminar",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 327273,
+      "title": "Japan Azure User Group 14周年イベント",
+      "catch": "",
+      "startedAt": "2024-10-05T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/327273/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 329105,
+      "title": ".NETラボ 勉強会 2024年9月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-09-28T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/329105/",
+      "groupName": ".NETラボ",
+      "place": "FIXER東京本社24階",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 330804,
+      "title": "【配信】.NET 9 RC 1！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2024-09-27T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/330804/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 330257,
+      "title": "昼休みに Semantic Kernel をさわってみよう配信",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2024-09-26T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/330257/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 323899,
+      "title": "【現地orオンライン】第 4 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2024-09-13T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/323899/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 325049,
+      "title": "Azure PaaSを使った大規模BtoBプロダクト開発と運用の舞台裏 -データベースサービス編-",
+      "catch": "Sansan Data Hub の開発と運用の裏側をご紹介します",
+      "startedAt": "2024-08-26T19:30:00+09:00",
+      "url": "https://sansan.connpass.com/event/325049/",
+      "groupName": "Sansan株式会社",
+      "place": "Sansan株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 326381,
+      "title": ".NETラボ 勉強会 2024年8月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-08-24T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/326381/",
+      "groupName": ".NETラボ",
+      "place": "FIXER東京本社24階",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 328139,
+      "title": "【配信】.NET 9 Preview 7！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2024-08-15T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/328139/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 328005,
+      "title": "JTC話・昭和企業な話｜ゆる～くITネタトーク",
+      "catch": "今回は古い昭和体質な企業とかお仕事についてゆるくトークしましょう！",
+      "startedAt": "2024-08-14T20:00:00+09:00",
+      "url": "https://rpacommunity.connpass.com/event/328005/",
+      "groupName": "RPACommunity",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 326461,
+      "title": "AOAIDevDay Recap!簡単便利にプロンプト管理できると噂のPromptyをわいがや試す会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-08-08T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/326461/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 323373,
+      "title": ".NETラボ 勉強会 2024年7月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-07-27T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/323373/",
+      "groupName": ".NETラボ",
+      "place": "プログライブコンサルティング",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 319491,
+      "title": "Azure OpenAI Service Dev Day",
+      "catch": "Azure AIサービスを活用するコミュニティたちの年次カンファレンス",
+      "startedAt": "2024-07-25T09:30:00+09:00",
+      "url": "https://azureai.connpass.com/event/319491/",
+      "groupName": "Azure AI Developers Community(JP)",
+      "place": "大手町プレイスホール&カンファレンス",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 325515,
+      "title": "【配信】.NET 9 Preview 6！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2024-07-23T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/325515/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 324143,
+      "title": "初心者がAzure AIのSpeech ServiceでAIに発声機能を授けるのをわいがや応援する会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-07-18T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/324143/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 319873,
+      "title": "第49回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2024-07-16T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/319873/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 324193,
+      "title": "昼休みに .NET Aspire をさわってみよう配信",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2024-07-11T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/324193/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 319762,
+      "title": "Blazor+ローコードで実現する.NET資産のモダナイズ",
+      "catch": "",
+      "startedAt": "2024-07-04T13:30:00+09:00",
+      "url": "https://codeer.connpass.com/event/319762/",
+      "groupName": "株式会社Codeer",
+      "place": "日本マイクロソフト株式会社　品川本社 31F セミナールーム C+D",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 319871,
+      "title": "第48回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2024-06-27T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/319871/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 318191,
+      "title": ".NET の日 ～.NET コミュニティ合同イベント～",
+      "catch": ".NET の日。.NET を堪能しよう！",
+      "startedAt": "2024-06-25T19:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/318191/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "FIXER東京本社",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 320403,
+      "title": ".NETラボ 勉強会 2024年6月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-06-22T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/320403/",
+      "groupName": ".NETラボ",
+      "place": "FIXER東京本社",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 318059,
+      "title": "【現地orオンライン】第 3 回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2024-06-14T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/318059/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 320456,
+      "title": "Azure FunctionsのAzure OpenAI拡張で独自AIチャットをわいがや実装する会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-06-10T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/320456/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 314269,
+      "title": "【配信】Build 2024 後！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2024-05-30T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/314269/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 319961,
+      "title": "Cogbot Meetup #43 - Microsoft Build 2024 キャッチアップ",
+      "catch": "Cogbot 的 Build 2024 AI 関連情報のキャッチアップ！",
+      "startedAt": "2024-05-28T19:30:00+09:00",
+      "url": "https://cogbot.connpass.com/event/319961/",
+      "groupName": "Cogbot コミュニティ",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 319296,
+      "title": "Hack Azure #16 - Microsoft Build 2024 Re-cap!",
+      "catch": "現地の熱気をお届け！Serverless系アップデート速報",
+      "startedAt": "2024-05-27T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/319296/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 317839,
+      "title": ".NETラボ 勉強会 2024年5月 newMVP祭り",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-05-25T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/317839/",
+      "groupName": ".NETラボ",
+      "place": "株式会社エーピーコミュニケーションズ",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 314782,
+      "title": "アーキテクチャを突き詰める Online Conference",
+      "catch": "",
+      "startedAt": "2024-05-22T12:00:00+09:00",
+      "url": "https://findy.connpass.com/event/314782/",
+      "groupName": "ファインディ／Findy",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 318653,
+      "title": "超速報！現地からお届けする Microsoft Build レポート",
+      "catch": "",
+      "startedAt": "2024-05-22T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/318653/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 318464,
+      "title": "Azure App ServiceにEasy Authで認証をEasyに組み込めるのかわいがや試す会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-05-20T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/318464/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 316664,
+      "title": "イマドキのC# .NET Web開発 〜gRPC, GraphQL, Blazorもあるよ〜",
+      "catch": "",
+      "startedAt": "2024-05-15T19:00:00+09:00",
+      "url": "https://sansan.connpass.com/event/316664/",
+      "groupName": "Sansan株式会社",
+      "place": "Sansan株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 314310,
+      "title": ".NETラボ 勉強会 2024年4月＆Azureわいがや会",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-04-27T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/314310/",
+      "groupName": ".NETラボ",
+      "place": "ピクシブ株式会社本社ビル",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 315468,
+      "title": "[RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】",
+      "catch": "",
+      "startedAt": "2024-04-23T19:00:00+09:00",
+      "url": "https://linedevelopercommunity.connpass.com/event/315468/",
+      "groupName": "LINE Developer Community",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 311408,
+      "title": "Global Azure 2024",
+      "catch": "年に一度のAzureコミュニティ祭りGlobal Azure 2024！今年もやります！！",
+      "startedAt": "2024-04-20T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/311408/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 315887,
+      "title": "GitHub Copilot Enterpriseで何ができるのかわいがや検証・共有していじり倒す会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-04-16T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/315887/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 310312,
+      "title": "【リアル開催・景品有】ALGYAN 9周年【解散】最後のLT＆懇親会・新時代を作るのは、あなたです！",
+      "catch": "ALGYANは今回で活動を終了します。ご協力有難うございました。さぁ、それぞれの新たな道を進むのだ！",
+      "startedAt": "2024-04-13T14:00:00+09:00",
+      "url": "https://algyan.connpass.com/event/310312/",
+      "groupName": "ALGYAN(あるじゃん)主催 公式イベント！",
+      "place": "Microsoft品川本社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 316047,
+      "title": "コンテナを使って.NETアプリを動かす昼休み配信",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2024-04-12T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/316047/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 312557,
+      "title": "Terraform経験者がTerraform Cloudを1時間で習得できるのかわいがや眺める会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-03-28T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/312557/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 312383,
+      "title": "【登壇者募集中】【オンライン】.NET Aspireイベント",
+      "catch": "",
+      "startedAt": "2024-03-26T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/312383/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 311594,
+      "title": ".NETラボ 勉強会 2024年3月(AD, AOAI,新型Surfaceなど)",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2024-03-23T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/311594/",
+      "groupName": ".NETラボ",
+      "place": "ピクシブ株式会社本社ビル",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 307679,
+      "title": "第47回 Tokyo Jazug Night",
+      "catch": "年度末はお金が大事！Azureコストコン",
+      "startedAt": "2024-03-21T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/307679/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 311999,
+      "title": "インフラ初心者がドメイン取得からApp Serviceへの証明書設置まで行うのをわいがや応援する会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-03-12T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/311999/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 308894,
+      "title": "【現地orオンライン】第2回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2024-03-08T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/308894/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 294587,
+      "title": ".NET トーク ～.NET コミュニティ合同イベント～",
+      "catch": ".NET で語ろう！",
+      "startedAt": "2024-03-06T20:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/294587/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 309778,
+      "title": "ChatGPTからCopilotまで最新のAIを語ろう - Global AI Bootcamp",
+      "catch": "Microsoft MVP＋マイクロソフト メンバーと共にAI の今を知る2時間",
+      "startedAt": "2024-03-05T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/309778/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 309012,
+      "title": ".NETラボ 勉強会 2024年2月 - AOAI, AD, ME, .NETなど -",
+      "catch": "ハイブリッド勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2024-02-24T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/309012/",
+      "groupName": ".NETラボ",
+      "place": "ピクシブ株式会社本社ビル",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 306142,
+      "title": "RED vs BLUE 〜Sansanのぺネトレーションテスト〜",
+      "catch": "",
+      "startedAt": "2024-02-22T19:00:00+09:00",
+      "url": "https://sansan.connpass.com/event/306142/",
+      "groupName": "Sansan株式会社",
+      "place": "Sansan株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 310690,
+      "title": "初心者がAzure Functions OpenAI拡張を動かすのをわいがや眺める会",
+      "catch": "モブプロ形式でわいわい検証したい！",
+      "startedAt": "2024-02-21T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/310690/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 308688,
+      "title": "Developer Meet & Greet at Microsoft AI Tour",
+      "catch": "",
+      "startedAt": "2024-02-20T18:30:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/308688/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "東京ビッグサイト　会議棟1F フードコート＆ビアー Eat iT！",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 308241,
+      "title": "昼休みに C# で Blazor 製の web アプリをイチから作る配信",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2024-02-09T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/308241/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 297642,
+      "title": "第46回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2024-02-07T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/297642/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 309575,
+      "title": "ASP.NET CoreやAzure Functionsの構成周りについてわいがや探求する会",
+      "catch": "わいわい検証したい！",
+      "startedAt": "2024-02-06T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/309575/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 303390,
+      "title": "Fukuoka.NET Conf 2023",
+      "catch": ".NET Conf 2023 ローカルイベント＠福岡",
+      "startedAt": "2024-02-03T14:00:00+09:00",
+      "url": "https://fukuten.connpass.com/event/303390/",
+      "groupName": "Fukuoka.NET（ふくてん）",
+      "place": "株式会社オルターブース 天神サテライト",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 305578,
+      "title": ".NETラボ 勉強会 2024年1月",
+      "catch": "ハイブリッド勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2024-01-27T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/305578/",
+      "groupName": ".NETラボ",
+      "place": "ピクシブ株式会社本社ビル",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 306100,
+      "title": "MS Tech Camp #23学生アンバサダーがMicrosoft Igniteの発表技術を紹介",
+      "catch": "Microsoft Igniteで発表された最新技術の中から学生アンバサダーが気になった技術を紹介！",
+      "startedAt": "2024-01-26T20:00:00+09:00",
+      "url": "https://mspjp.connpass.com/event/306100/",
+      "groupName": "Microsoft Learn Student Ambassadors",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 308212,
+      "title": "初心者がAzure Functions OpenAIバインドを動かすのをわいがや眺める会",
+      "catch": "わいわい検証したい！",
+      "startedAt": "2024-01-23T19:40:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/308212/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 294589,
+      "title": ".NET の 2 日間 2024 冬 (2 日目) ～3 コミュニティ合同イベント～",
+      "catch": "3 日間ずっと .NET を堪能しよう！",
+      "startedAt": "2024-01-19T19:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/294589/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 294588,
+      "title": ".NET の 2 日間 2024 冬 (1 日目) ～3 コミュニティ合同イベント～",
+      "catch": "3 日間ずっと .NET を堪能しよう！",
+      "startedAt": "2024-01-18T19:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/294588/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 306906,
+      "title": "Hack Azure! #14 - Microsoft Learn で Azure をキャッチアップ",
+      "catch": "Microsoft Learn の使いドコロをエキスパート達が解説します！",
+      "startedAt": "2024-01-10T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/306906/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 306134,
+      "title": "IT供養｜2023年締め括りにIT供養ネタとIT法話",
+      "catch": "RPACommunity 2023年最後のイベント",
+      "startedAt": "2023-12-29T19:30:00+09:00",
+      "url": "https://rpacommunity.connpass.com/event/306134/",
+      "groupName": "RPACommunity",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 304663,
+      "title": "Hack Azure! #13 - Azure Functions の中の人から直接聞く最新情報",
+      "catch": "2023年の締めは Azure Functions を作っている人たちがゲスト！",
+      "startedAt": "2023-12-28T16:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/304663/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 306185,
+      "title": "インフラ初心者の私がAzure VMで.NETアプリをホストするまでサンタを帰さない",
+      "catch": "IIS初心者がAzure VMでアプリをホストするまでの様を眺める・アドバイスする・一緒に学ぶ会",
+      "startedAt": "2023-12-25T19:45:00+09:00",
+      "url": "https://azure-waigaya.connpass.com/event/306185/",
+      "groupName": "Azureわいがや会",
+      "place": "オンライン（Teams）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 303250,
+      "title": ".NET Night Party@品川",
+      "catch": "2023年を締めくくる.NET開発者による.NET開発者のための忘年会！",
+      "startedAt": "2023-12-19T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/303250/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "日本マイクロソフト株式会社 品川本社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 303142,
+      "title": ".NETラボ 勉強会 2023年12月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-12-16T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/303142/",
+      "groupName": ".NETラボ",
+      "place": "ふれあい貸し会議室 新宿豊栄",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 302216,
+      "title": "【現地orオンライン】第1回 JAZUG for Women",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2023-12-15T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/302216/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 300895,
+      "title": "【Sansan × pixiv】各社の大規模ユーザーを支えるインフラについて",
+      "catch": "",
+      "startedAt": "2023-12-08T19:00:00+09:00",
+      "url": "https://sansan.connpass.com/event/300895/",
+      "groupName": "Sansan株式会社",
+      "place": "Sansan株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 292517,
+      "title": "【オンライン】.NET Conf 後！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2023-11-30T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/292517/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 299196,
+      "title": "Alternative Architecture DOJO #9",
+      "catch": "サステナブルなITとイベントRecap",
+      "startedAt": "2023-11-29T18:00:00+09:00",
+      "url": "https://alterbooth.connpass.com/event/299196/",
+      "groupName": "オルターブース",
+      "place": "ジーズアカデミー東京",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 297641,
+      "title": "第45回 Tokyo Jazug Night",
+      "catch": "",
+      "startedAt": "2023-11-28T19:30:00+09:00",
+      "url": "https://jazug.connpass.com/event/297641/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 299544,
+      "title": ".NETラボ 勉強会 2023年11月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-11-25T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/299544/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 292515,
+      "title": "【配信】.NET Conf 2023 直後！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2023-11-21T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/292515/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 302098,
+      "title": "Hack Azure! #12 - 2023年11月の各種発表をみんなでキャッチアップする会",
+      "catch": "GitHub Universe, Microsoft Ignite, OpenAI Devday 等",
+      "startedAt": "2023-11-20T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/302098/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 299723,
+      "title": "超速報！現地からお届けする Microsoft Ignite アップデート",
+      "catch": "11/16 & 11/17の2日間開催",
+      "startedAt": "2023-11-16T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/299723/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 296773,
+      "title": ".NETラボ 勉強会 2023年10月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-10-28T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/296773/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 299070,
+      "title": "【配信】.NET 8 RC2！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2023-10-16T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/299070/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 294824,
+      "title": "Azure DevOpsオンライン Vol.9 ～ エンタープライズ向けGit運用",
+      "catch": "エンタープライズプロジェクトでのGit運用について",
+      "startedAt": "2023-10-07T13:00:00+09:00",
+      "url": "https://tfsug.connpass.com/event/294824/",
+      "groupName": "TFSUG",
+      "place": "Teams",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 297815,
+      "title": "【緊急開催！】Azure Kubernetes Service 最新情報 & Unplugged",
+      "catch": "AKSプロダクトチームからいろいろ聞いちゃおー",
+      "startedAt": "2023-10-03T19:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/297815/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 294666,
+      "title": ".NETラボ 勉強会 2023年9月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-09-23T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/294666/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 296696,
+      "title": "【配信】.NET 8 RC1！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2023-09-19T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/296696/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 296669,
+      "title": ".NET 8 RC1 (C# 12) ゆるふわ deep 配信",
+      "catch": ".NET 8 RC1 & Visual Studio 17.8 Preview 2",
+      "startedAt": "2023-09-16T21:00:00+09:00",
+      "url": "https://csharp.connpass.com/event/296669/",
+      "groupName": "C# まったり配信",
+      "place": "YouTube Live 配信",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 293744,
+      "title": "Japan Azure User Group 13周年イベント",
+      "catch": "祝13周年！！少しだけ外に出れるようになった今年はみんなでワイワイしたい！",
+      "startedAt": "2023-09-16T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/293744/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 295060,
+      "title": ".NET SDK for Azure OpenAI を使った C# での生成 AI 開発入門",
+      "catch": "YouTube でライブ配信するので、ぜひリアルタイムにご参加ください！",
+      "startedAt": "2023-09-06T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/295060/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 295192,
+      "title": "Azure OpenAI in C# ゆるい勉強配信",
+      "catch": "the Azure OpenAI .NET SDK 触っていきます！",
+      "startedAt": "2023-09-02T21:00:00+09:00",
+      "url": "https://chomado.connpass.com/event/295192/",
+      "groupName": "ちょまどプログラミング勉強配信",
+      "place": "YouTube Live 配信",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 292513,
+      "title": "LT大会！機械学習・LLM・その他データ分析関係の色々な話題をつまもう！【登壇者も募集】",
+      "catch": "",
+      "startedAt": "2023-08-31T19:30:00+09:00",
+      "url": "https://studyco.connpass.com/event/292513/",
+      "groupName": "StudyCo",
+      "place": "Zoom",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 292571,
+      "title": "Hack Azure! #11 - Semantic Kernel をハックしよう",
+      "catch": "Semantic Kernel で Azure OoenAI の力を我がものにするハック",
+      "startedAt": "2023-08-29T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/292571/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 291485,
+      "title": ".NETラボ 勉強会 2023年8月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-08-26T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/291485/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 293385,
+      "title": "【配信】.NET 8 Preview 7！ C# Tokyo イベント 2023/08",
+      "catch": "",
+      "startedAt": "2023-08-22T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/293385/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 291210,
+      "title": "Web API を例に真剣に開発考えてみる？",
+      "catch": "実際に開発する時に何考えているか共有しようぜ",
+      "startedAt": "2023-08-05T10:00:00+09:00",
+      "url": "https://katte.connpass.com/event/291210/",
+      "groupName": "勝手に勉強会",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 290400,
+      "title": "Azure OpenAI ハッカソンやろうぜ",
+      "catch": "いつやるの？今でしょ。",
+      "startedAt": "2023-07-29T10:00:00+09:00",
+      "url": "https://katte.connpass.com/event/290400/",
+      "groupName": "勝手に勉強会",
+      "place": "日本マイクロソフト 品川オフィス",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 288701,
+      "title": "SoftBank Tech Night #12 #ChatGPT / #AzureOpenAI",
+      "catch": "会場参加あり！AI技術に関する知見を発表します",
+      "startedAt": "2023-07-28T18:50:00+09:00",
+      "url": "https://sbtechnight.connpass.com/event/288701/",
+      "groupName": "SoftBank Tech Night",
+      "place": "ザ・プリンスパークタワー東京 地下2階",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 288776,
+      "title": ".NETラボ 勉強会 2023年7月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-07-22T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/288776/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 290526,
+      "title": "【配信】.NET 8 & C# 12 前！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2023-07-17T20:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/290526/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 287757,
+      "title": "【現地orオンライン】第0回 JAZUG for Women - Kick off",
+      "catch": "女性エンジニアのためのAzure勉強会",
+      "startedAt": "2023-07-17T14:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/287757/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 290393,
+      "title": ".NET 8 Preview 6 (C# 12) ゆるふわ deep 配信",
+      "catch": ".NET 8 Preview 6 & Visual Studio 17.7 Preview 3",
+      "startedAt": "2023-07-15T21:00:00+09:00",
+      "url": "https://csharp.connpass.com/event/290393/",
+      "groupName": "C# まったり配信",
+      "place": "YouTube Live 配信",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 287899,
+      "title": "【オンライン】Build 後！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2023-07-11T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/287899/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 288682,
+      "title": "[超基礎] HTML/CSS や Razor Pages (C#) を使った web アプリ入門",
+      "catch": "web ページ作成, ASP.NET Razor Pages, Azureへのデプロイ",
+      "startedAt": "2023-07-11T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/288682/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 286490,
+      "title": "未来を切り開くBlazor ～.NET開発者のための新たなチャンス～",
+      "catch": "スペシャル対談ウェビナー",
+      "startedAt": "2023-07-05T15:00:00+09:00",
+      "url": "https://infragistics.connpass.com/event/286490/",
+      "groupName": "インフラジスティックス・ジャパン株式会社",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 286514,
+      "title": "LangChainソースコードリーディング／テーマ：OpenAI Chat APIを「ちゃんと」使う",
+      "catch": "",
+      "startedAt": "2023-06-29T19:30:00+09:00",
+      "url": "https://studyco.connpass.com/event/286514/",
+      "groupName": "StudyCo",
+      "place": "Zoom",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 286537,
+      "title": "Semantic Kernelを使ってAIチャットアプリを構築する",
+      "catch": "AI ハンズオン@Microsoft Build Japan",
+      "startedAt": "2023-06-27T12:15:00+09:00",
+      "url": "https://microsoft-events.connpass.com/event/286537/",
+      "groupName": "日本マイクロソフト株式会社",
+      "place": "日本マイクロソフト株式会社 品川本社",
+      "roles": [
+        "speaking"
+      ]
+    },
+    {
+      "id": 285454,
+      "title": ".NETラボ 勉強会 2023年6月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-06-24T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/285454/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 285363,
+      "title": "Azure Open AI と C# と何か",
+      "catch": "AI バズってる",
+      "startedAt": "2023-06-18T10:00:00+09:00",
+      "url": "https://katte.connpass.com/event/285363/",
+      "groupName": "勝手に勉強会",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 277870,
+      "title": ".NET の 3 日間 (3 日目) ～3 コミュニティ合同イベント～",
+      "catch": "3 日間ずっと .NET を堪能しよう！",
+      "startedAt": "2023-06-02T19:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/277870/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 277869,
+      "title": ".NET の 3 日間 (2 日目) ～3 コミュニティ合同イベント～",
+      "catch": "3 日間ずっと .NET を堪能しよう！",
+      "startedAt": "2023-06-01T19:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/277869/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing",
+        "speaking"
+      ]
+    },
+    {
+      "id": 277868,
+      "title": ".NET の 3 日間 (1 日目) ～3 コミュニティ合同イベント～",
+      "catch": "3 日間ずっと .NET を堪能しよう！",
+      "startedAt": "2023-05-31T19:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/277868/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 281932,
+      "title": ".NETラボ 勉強会 2023年5月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-05-27T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/281932/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 284437,
+      "title": "[特別企画] 超速報！現地からお届けする最新情報満載 Microsoft Build レポート",
+      "catch": "",
+      "startedAt": "2023-05-24T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/284437/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 281106,
+      "title": "WoodStream Networks 第1回Windows勉強会",
+      "catch": "Windowsとデバイスの勉強をしてドヤ顔しよう!!",
+      "startedAt": "2023-05-20T13:30:00+09:00",
+      "url": "https://woodstream.connpass.com/event/281106/",
+      "groupName": "WoodStream Networks勉強会(マイクロソフト技術・製品の勉強会)",
+      "place": "YouTubeライブ",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 279068,
+      "title": "Global Azure 2023",
+      "catch": "世界中のAzureコミュニティがイベントを開催するGlobal Azure 2023がやってきた！",
+      "startedAt": "2023-05-13T13:00:00+09:00",
+      "url": "https://jazug.connpass.com/event/279068/",
+      "groupName": "JAZUG (Japan Azure User Group)",
+      "place": "日本マイクロソフト株式会社品川オフィス 31F セミナールーム A",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 283701,
+      "title": "5/12(金)21時 Global Azure 勉強会の Azure OpenAI リハ",
+      "catch": "翌日の登壇に向けた練習配信です！OpenAI + Semantic Kernel (C#)",
+      "startedAt": "2023-05-12T21:00:00+09:00",
+      "url": "https://chomado.connpass.com/event/283701/",
+      "groupName": "ちょまどプログラミング勉強配信",
+      "place": "YouTube Live 配信",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 283050,
+      "title": "5/9(火)21時 Global Azure 勉強会の Azure OpenAI リハのリハ",
+      "catch": "今週末の登壇に向けた練習配信です！体調不良によりセッション内容完成しませんでしたので途中まで…",
+      "startedAt": "2023-05-09T21:00:00+09:00",
+      "url": "https://chomado.connpass.com/event/283050/",
+      "groupName": "ちょまどプログラミング勉強配信",
+      "place": "YouTube Live 配信",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 282889,
+      "title": "5/4(木)21時 [OpenAI] Microsoft Semantic Kernel 勉強配信",
+      "catch": "AI 周辺勉強の様子を配信し、皆で一緒に勉強していきたいです！セミナー形式ではなく作業実況配信です",
+      "startedAt": "2023-05-04T21:00:00+09:00",
+      "url": "https://chomado.connpass.com/event/282889/",
+      "groupName": "ちょまどプログラミング勉強配信",
+      "place": "YouTube Live 配信",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 282130,
+      "title": "ライブコーディング配信！.NET(C#) で爆速 web アプリ開発～クラウドにデプロイまで",
+      "catch": "クラウドの基礎（座学）から C# ライブコーディング実演まで",
+      "startedAt": "2023-04-27T17:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/282130/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 279139,
+      "title": ".NETラボ 勉強会 2023年4月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-04-22T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/279139/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 275838,
+      "title": ".NETラボ 勉強会 2023年3月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-03-25T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/275838/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 276497,
+      "title": "TDC の次期ネットワークを考える会 # 01",
+      "catch": "自宅ネットワークの構成を考える会 (雑談会)",
+      "startedAt": "2023-02-26T15:00:00+09:00",
+      "url": "https://configmgr.connpass.com/event/276497/",
+      "groupName": "Japan Microsoft Endpoint Configuration Manager UG",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 274420,
+      "title": ".NETラボ 勉強会 2023年2月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-02-25T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/274420/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 271940,
+      "title": "【オンライン】2023年！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2023-02-24T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/271940/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 271122,
+      "title": ".NETラボ 勉強会 2023年1月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2023-01-28T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/271122/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 267854,
+      "title": ".NETラボ 勉強会 2022年12月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2022-12-17T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/267854/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 264192,
+      "title": ".NETラボ 勉強会 2022年11月 C# Tokyo 合同イベント",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2022-11-26T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/264192/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 264882,
+      "title": ".NET 朝活輪読会4 【.NET の 2 週間イベント】 2022/11/26",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-26T10:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264882/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 257684,
+      "title": "【オンライン】.NET Conf 2022 直後！ C# Tokyo & .NETラボ 合同イベント",
+      "catch": "",
+      "startedAt": "2022-11-25T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/257684/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 264846,
+      "title": ".NET 夜活もくもく会3【.NET の 2 週間イベント】 2022/11/23",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-23T19:30:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264846/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "organizing"
+      ]
+    },
+    {
+      "id": 264842,
+      "title": ".NET 朝活輪読会3 【.NET の 2 週間イベント】 2022/11/21",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-21T05:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264842/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 264841,
+      "title": ".NET 朝活輪読会2 【.NET の 2 週間イベント】 2022/11/19",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-19T10:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264841/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 264845,
+      "title": ".NET 朝活もくもく会2【.NET の 2 週間イベント】 2022/11/18",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-18T05:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264845/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 266680,
+      "title": "【メタバース】メタバース内の操作に慣れよう！ C# Tokyo イベント（もくもく会）",
+      "catch": "",
+      "startedAt": "2022-11-16T21:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/266680/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 264843,
+      "title": ".NET 夜活もくもく会1【.NET の 2 週間イベント】 2022/11/16",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-16T19:30:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264843/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 264840,
+      "title": ".NET 朝活輪読会1 【.NET の 2 週間イベント】 2022/11/14",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-14T05:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264840/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 264618,
+      "title": ".NET の 2 週間 (2022/11/14 ～ 11/26)",
+      "catch": "2 週間ずっと .NET を堪能しよう！",
+      "startedAt": "2022-11-14T05:00:00+09:00",
+      "url": "https://dotnet-communities.connpass.com/event/264618/",
+      "groupName": ".NET コミュニティーズ",
+      "place": "オンライン",
+      "roles": [
+        "organizing"
+      ]
+    },
+    {
+      "id": 262515,
+      "title": ".NETラボ 勉強会 2022年10月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2022-10-22T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/262515/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 261441,
+      "title": "GEEKERS NITE #1",
+      "catch": "秋のLT祭りと絶対盛り上げるDJ",
+      "startedAt": "2022-10-14T19:00:00+09:00",
+      "url": "https://geekersnites.connpass.com/event/261441/",
+      "groupName": "GEEKERS NITE",
+      "place": "G's ACADEMY TOKYO",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 259233,
+      "title": "【オンライン】MAUI に注目する C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2022-09-30T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/259233/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 257589,
+      "title": ".NETラボ 勉強会 2022年9月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2022-09-24T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/257589/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 257384,
+      "title": "Power Automate Desktop勉強会 vol.6",
+      "catch": "PAD と Power Platform が企業と人を支えたストーリー スペシャル (予定)",
+      "startedAt": "2022-09-10T15:00:00+09:00",
+      "url": "https://powerautomatedesktop.connpass.com/event/257384/",
+      "groupName": "Power Automate for desktop 勉強会",
+      "place": "Microsoft Teams",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 254374,
+      "title": ".NETラボ 勉強会 2022年8月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2022-08-27T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/254374/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 254206,
+      "title": "【オンライン】.NET 6 移行祭り！ C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2022-08-26T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/254206/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 256889,
+      "title": "devblogラジオ vol.48 ～お盆の更新をまとめて読もう～",
+      "catch": "",
+      "startedAt": "2022-08-19T22:00:00+09:00",
+      "url": "https://devblog.connpass.com/event/256889/",
+      "groupName": "devblogラジオ",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 247271,
+      "title": "DevRel/Japan CONFERENCE 2022",
+      "catch": "今年はオンライン&オフライン（複数都市）にて開催！",
+      "startedAt": "2022-08-05T19:00:00+09:00",
+      "url": "https://devrel.connpass.com/event/247271/",
+      "groupName": "DevRel/Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 253733,
+      "title": "Azure DevOpsオンライン Vol.6 ～ 業務で必要なCIをみんなで考えよう",
+      "catch": "業務アプリケーションのCIについてみんなで語ろう",
+      "startedAt": "2022-07-26T19:00:00+09:00",
+      "url": "https://tfsug.connpass.com/event/253733/",
+      "groupName": "TFSUG",
+      "place": "Teams",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 252711,
+      "title": ".NETラボ 勉強会 2022年7月",
+      "catch": "オンライン勉強会(YouTube Live/Microsoft Teamsを使います)",
+      "startedAt": "2022-07-23T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/252711/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 250223,
+      "title": ".NETラボ 勉強会 2022年6月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2022-06-25T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/250223/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 246279,
+      "title": ".NETラボ 勉強会 2022年5月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2022-05-28T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/246279/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 243986,
+      "title": "Music LT Vol. 2",
+      "catch": "テクノロジーで音楽をもっと楽しく！登壇者募集中。",
+      "startedAt": "2022-05-26T19:30:00+09:00",
+      "url": "https://iotlt.connpass.com/event/243986/",
+      "groupName": "IoT縛りの勉強会\u0010! IoTLT",
+      "place": "オンライン授業",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 243974,
+      "title": ".NETラボ 勉強会 2022年4月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2022-04-23T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/243974/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 236752,
+      "title": ".NETラボ 勉強会 2022年3月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2022-03-26T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/236752/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 234454,
+      "title": ".NETラボ 勉強会 2022年2月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2022-02-26T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/234454/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 233822,
+      "title": "Microsoft Developer Night",
+      "catch": "立春前日・・・冬の終わりの一日を開発者の仲間と一緒に楽しみたい方大歓迎！",
+      "startedAt": "2022-02-03T18:30:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/233822/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 232443,
+      "title": ".NETラボ 勉強会 2022年1月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2022-01-22T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/232443/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 233086,
+      "title": "【オンライン】リモートワークで何食べてる？ C# Tokyo イベント",
+      "catch": "リモートワークの知見を共有しよう",
+      "startedAt": "2021-12-21T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/233086/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 232383,
+      "title": ".NETラボ 勉強会 2021年12月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-12-18T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/232383/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 229577,
+      "title": ".NETラボ 勉強会 2021年11月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-11-27T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/229577/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 229730,
+      "title": "Microsoft Ignite 秋まつり 2021",
+      "catch": "前夜祭とはまた違う皆さんが主役の \"おまつり\" が昨年夏から一年以上の時を経て復活！",
+      "startedAt": "2021-11-22T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/229730/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 227916,
+      "title": "【オンライン】Visual Studio 2022 Launch 記念 C# Tokyo イベント",
+      "catch": "【初登壇歓迎！】Visual Studio 2022 Launch を祝おう！",
+      "startedAt": "2021-11-19T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/227916/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 230224,
+      "title": "Hack Azure! #8 - Azure Container Apps の使いドコロを探る!",
+      "catch": "Azure Serverless ファミリーに追加された新サービスを Hack しよう!",
+      "startedAt": "2021-11-18T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/230224/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 228106,
+      "title": "devblogラジオ vol.29 ～.NET 6 GA～ #dotnetconf",
+      "catch": "",
+      "startedAt": "2021-11-12T22:00:00+09:00",
+      "url": "https://devblog.connpass.com/event/228106/",
+      "groupName": "devblogラジオ",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 225429,
+      "title": "Microsoft Ignite 2021前夜祭",
+      "catch": "～Igniteでも皆さんでViewing Party！！！～",
+      "startedAt": "2021-11-02T22:00:00+09:00",
+      "url": "https://azurerockstar.connpass.com/event/225429/",
+      "groupName": "Azure Rock Star",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 226823,
+      "title": ".NETラボ 勉強会 2021年10月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-10-23T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/226823/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 223621,
+      "title": ".NETラボ 勉強会 2021年9月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-09-25T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/223621/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 219604,
+      "title": ".NETラボ 勉強会 2021年8月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-08-28T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/219604/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 218572,
+      "title": "Fusic Tech Live Vol.3：開発はゴールじゃない 〜運用改善のススメ〜",
+      "catch": "",
+      "startedAt": "2021-08-25T19:00:00+09:00",
+      "url": "https://fusic.connpass.com/event/218572/",
+      "groupName": "Fusic Events",
+      "place": "株式会社Fusic",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 217259,
+      "title": ".NETラボ 勉強会 2021年7月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-07-17T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/217259/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 219207,
+      "title": "C# Tokyo 7.0 から 9.0 C# 入門/再入門 & もくもく会 2021/07",
+      "catch": "",
+      "startedAt": "2021-07-17T13:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/219207/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 214208,
+      "title": ".NETラボ 勉強会 2021年6月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-06-26T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/214208/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 213915,
+      "title": "Microsoft Build Recap Community Day",
+      "catch": "",
+      "startedAt": "2021-06-12T13:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/213915/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 211921,
+      "title": "Microsoft Build 2021前夜祭",
+      "catch": "～イベント後はそのままBuildのViewing Partyに突入だー！！！～",
+      "startedAt": "2021-05-25T21:30:00+09:00",
+      "url": "https://azurerockstar.connpass.com/event/211921/",
+      "groupName": "Azure Rock Star",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 208867,
+      "title": ".NETラボ 勉強会 2021年5月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-05-22T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/208867/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 213351,
+      "title": "Hack Azure! #6 - Static Web Apps GA 祭り！",
+      "catch": "Azure Static Web Apps がついに GA しました！！",
+      "startedAt": "2021-05-20T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/213351/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 208866,
+      "title": ".NETラボ 勉強会 2021年4月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-04-24T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/208866/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 206912,
+      "title": "Azure Base Spring Fest 2021",
+      "catch": "オンラインイベント開催日：3/31 (水) 12:00 –16:45",
+      "startedAt": "2021-03-31T12:00:00+09:00",
+      "url": "https://microsoft-events.connpass.com/event/206912/",
+      "groupName": "日本マイクロソフト株式会社",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 201231,
+      "title": ".NETラボ 勉強会 2021年3月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-03-27T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/201231/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 204507,
+      "title": "Microsoft Ignite Recap Community Day",
+      "catch": "",
+      "startedAt": "2021-03-24T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/204507/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 206103,
+      "title": "緊急開催！Windows 10なら無料で出来るPower Automate Desktop勉強会！",
+      "catch": "",
+      "startedAt": "2021-03-11T19:00:00+09:00",
+      "url": "https://connpass.com/event/206103/",
+      "groupName": "",
+      "place": "ハイブリッド（詳細はイベントページ参照）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 201230,
+      "title": ".NETラボ 勉強会 2021年2月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-02-27T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/201230/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 202173,
+      "title": "パスワード付きzip添付メール問題を考える",
+      "catch": "PPAPを考える",
+      "startedAt": "2021-02-25T13:00:00+09:00",
+      "url": "https://connpass.com/event/202173/",
+      "groupName": "",
+      "place": "Webカンファレンス",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 201931,
+      "title": "おうち de LT大会 #2【ビヨンド勉強会 #31】",
+      "catch": "～リモートワーク環境を極めた者たち～",
+      "startedAt": "2021-02-09T19:00:00+09:00",
+      "url": "https://beyondjapan.connpass.com/event/201931/",
+      "groupName": "ビヨンド勉強会（ビヨ勉）",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 199890,
+      "title": ".NETラボ 勉強会 2021年1月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2021-01-23T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/199890/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 197706,
+      "title": ".NETラボ 勉強会 2020年12月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-12-26T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/197706/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 199536,
+      "title": "【オンライン】C# Tokyo  2.0 から始める C# 入門/再入門",
+      "catch": "",
+      "startedAt": "2020-12-25T19:30:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/199536/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 192835,
+      "title": "Visual Studio Users Community Japan 勉強会 #6",
+      "catch": ".NET 5 launch / .NET Conf 2020",
+      "startedAt": "2020-12-05T13:00:00+09:00",
+      "url": "https://vsuc.connpass.com/event/192835/",
+      "groupName": "Visual Studio Users Community Japan",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 193450,
+      "title": ".NETラボ 勉強会 2020年11月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-11-28T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/193450/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 189415,
+      "title": "【オンライン/開催日決定】.NET 5 リリース記念 C# Tokyo イベント",
+      "catch": "",
+      "startedAt": "2020-11-27T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/189415/",
+      "groupName": "C# Tokyo",
+      "place": "",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 191275,
+      "title": "Alternative Architecture DOJO #5",
+      "catch": "Microsoft Ignite Recapを中心にディープなアーキテクチャーをディープな人が語る",
+      "startedAt": "2020-11-18T18:00:00+09:00",
+      "url": "https://alterbooth.connpass.com/event/191275/",
+      "groupName": "オルターブース",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 191819,
+      "title": ".NET Conf 2020 Online - .NET 5 リリース記念パーティートーク",
+      "catch": ".NET をこよなく愛するエンジニアによる .NET 5 のリリース記念パーティートーク",
+      "startedAt": "2020-11-13T20:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/191819/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 189927,
+      "title": ".NETラボ 勉強会 2020年10月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-10-24T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/189927/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 186236,
+      "title": ".NETラボ 勉強会 2020年9月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-09-26T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/186236/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 189771,
+      "title": "Hack Azure! #3 Catch up Ignite 2020 Azure updates",
+      "catch": "Microsoft Ignite 2020 で発表された Azure 最新情報をキャッチアップ！",
+      "startedAt": "2020-09-25T20:00:00+09:00",
+      "url": "https://hack-everything.connpass.com/event/189771/",
+      "groupName": "Hack Everything.",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 184067,
+      "title": ".NETラボ 勉強会 2020年8月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-08-22T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/184067/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 183644,
+      "title": "これが私のおすすめリモート開発事例 by MS MVP -  MSTechNight #12",
+      "catch": "リモート環境での共同開発や生産性を上げるためのTips集",
+      "startedAt": "2020-08-17T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/183644/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 183747,
+      "title": "de:code夏まつり ～よりコミュニティを楽しくするためのコミュニティのすすめ the FINAL",
+      "catch": "みんなで一緒に楽しんだde:code夏まつりが生涯の忘れられない思い出になりますように",
+      "startedAt": "2020-08-08T13:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/183747/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 178164,
+      "title": "C# Tokyo オンライン LT 大会 2020/07",
+      "catch": "",
+      "startedAt": "2020-07-29T19:30:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/178164/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 181076,
+      "title": ".NETラボ 勉強会 2020年7月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-07-25T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/181076/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 176218,
+      "title": "これが私のおすすめリモート開発事例 by Startup/MVP - MSTechNight #11",
+      "catch": "リモート環境での共同開発や生産性を上げるためのTips集",
+      "startedAt": "2020-07-20T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/176218/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 175983,
+      "title": "de:code夏まつり ～よりコミュニティを楽しくするためのコミュニティのすすめ #3",
+      "catch": "僕たち/私たちのde:code夏まつり\"も\"終わらない・・・！",
+      "startedAt": "2020-07-08T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/175983/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 180470,
+      "title": "Visual Studio Users Community Japan #5",
+      "catch": "～Buildだったりde:codeだったり～",
+      "startedAt": "2020-07-04T13:00:00+09:00",
+      "url": "https://vsuc.connpass.com/event/180470/",
+      "groupName": "Visual Studio Users Community Japan",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 177504,
+      "title": ".NETラボ 勉強会 2020年6月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-06-27T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/177504/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 175982,
+      "title": "de:code夏まつり ～よりコミュニティを楽しくするためのコミュニティのすすめ #2",
+      "catch": "「de:code 2020」をお楽しみいただいている方のための120分♡",
+      "startedAt": "2020-06-24T19:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/175982/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 178465,
+      "title": "Alternative Architecture DOJO #4",
+      "catch": "〜Azure ＆ LINE ショートセッション4連投！〜",
+      "startedAt": "2020-06-18T13:00:00+09:00",
+      "url": "https://alterbooth.connpass.com/event/178465/",
+      "groupName": "オルターブース",
+      "place": "YouTube Live",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 175981,
+      "title": "de:code夏まつり ～よりコミュニティを楽しくするためのコミュニティのすすめ #1",
+      "catch": "エンジニアのための2020夏のオンラインまつり始めました",
+      "startedAt": "2020-06-13T13:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/175981/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 174938,
+      "title": "ビデオ会議ツール勉強会",
+      "catch": "様々なビデオ会議ツールの機能と特徴について、細かい機能について学ぶ勉強会です",
+      "startedAt": "2020-05-23T19:40:00+09:00",
+      "url": "https://yokohamait.connpass.com/event/174938/",
+      "groupName": "横浜IT勉強会",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 174619,
+      "title": ".NETラボ 勉強会 2020年5月",
+      "catch": "オンライン勉強会(Microsoft Teamsを使います)",
+      "startedAt": "2020-05-23T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/174619/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 174491,
+      "title": "WEB解析オンラインLT大会",
+      "catch": "これからWEB解析のスキルを伸ばしたい人向け開催します【GA / CS / SNS / ログ解析】",
+      "startedAt": "2020-05-15T19:30:00+09:00",
+      "url": "https://sakurug.connpass.com/event/174491/",
+      "groupName": "株式会社SAKURUG",
+      "place": "Teamsライブ配信",
+      "roles": [
+        "speaking"
+      ]
+    },
+    {
+      "id": 172725,
+      "title": "アプリをモダナイズ！\"KOSMISCH\"ウェビナー",
+      "catch": "【日本マイクロソフト / 株式会社オルターブース 共催】",
+      "startedAt": "2020-04-28T15:00:00+09:00",
+      "url": "https://alterbooth.connpass.com/event/172725/",
+      "groupName": "オルターブース",
+      "place": "YouTube Live",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 172038,
+      "title": ".NETラボ 勉強会 2020年4月",
+      "catch": "",
+      "startedAt": "2020-04-25T13:30:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/172038/",
+      "groupName": ".NETラボ",
+      "place": "世界中",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 169424,
+      "title": "C# Tokyo オンライン「世界一わかりやすいClean Architecture」他",
+      "catch": "",
+      "startedAt": "2020-04-03T19:00:00+09:00",
+      "url": "https://csharp-tokyo.connpass.com/event/169424/",
+      "groupName": "C# Tokyo",
+      "place": "オンライン開催",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 164796,
+      "title": "【初見歓迎】グループワーク型セキュリティ講習＠渋谷",
+      "catch": "セキュリティに興味ある人やセキスぺを目指す人たちでテーマを絞って議論していきましょう！",
+      "startedAt": "2020-02-14T19:00:00+09:00",
+      "url": "https://sakurug.connpass.com/event/164796/",
+      "groupName": "株式会社SAKURUG",
+      "place": "株式会社SAKURUG 会議室",
+      "roles": [
+        "speaking"
+      ]
+    },
+    {
+      "id": 164976,
+      "title": "Alternative Architecture DOJO Offline #3",
+      "catch": "〜冬のThe Twelve-Factor App祭り〜",
+      "startedAt": "2020-02-12T19:00:00+09:00",
+      "url": "https://alterbooth.connpass.com/event/164976/",
+      "groupName": "オルターブース",
+      "place": "株式会社スカイアーチネットワークス 会議室",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 155600,
+      "title": "【Web開発者向け】クラウドセミナー@渋谷 #2【Azure入門】",
+      "catch": "Azure上でのC#.netの開発に関する内容です。ハンズオン形式です。",
+      "startedAt": "2019-12-06T19:00:00+09:00",
+      "url": "https://sakurug.connpass.com/event/155600/",
+      "groupName": "株式会社SAKURUG",
+      "place": "株式会社SAKURUG 会議室",
+      "roles": [
+        "speaking"
+      ]
+    },
+    {
+      "id": 148846,
+      "title": "【Web開発者向け】クラウドセミナー@渋谷 #1【Azure入門】",
+      "catch": "Azure上でのC#.netの開発に関する内容です。",
+      "startedAt": "2019-10-25T19:00:00+09:00",
+      "url": "https://sakurug.connpass.com/event/148846/",
+      "groupName": "株式会社SAKURUG",
+      "place": "株式会社SAKURUG 会議室",
+      "roles": [
+        "speaking"
+      ]
+    },
+    {
+      "id": 143114,
+      "title": "Visual Studio Users Community Japan #1",
+      "catch": "VSUC Launch!",
+      "startedAt": "2019-09-14T12:55:00+09:00",
+      "url": "https://vsuc.connpass.com/event/143114/",
+      "groupName": "Visual Studio Users Community Japan",
+      "place": "日本マイクロソフト株式会社 品川オフィス Seminar Room C+D, B",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 131464,
+      "title": "Alternative Architecture DOJO Offline #2",
+      "catch": "Deep CloudBiz-Techを語る",
+      "startedAt": "2019-05-28T17:00:00+09:00",
+      "url": "https://alterbooth.connpass.com/event/131464/",
+      "groupName": "オルターブース",
+      "place": "fabbit Global Gateway “Otemachi”",
+      "roles": [
+        "attending"
+      ]
+    }
+  ]
 }
