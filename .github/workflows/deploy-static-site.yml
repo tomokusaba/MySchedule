@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: connpass-api-refresh
@@ -45,6 +45,19 @@ jobs:
         env:
           CONNPASS_API_KEY: ${{ secrets.CONNPASS_API_KEY }}
         run: node scripts/sync-connpass.mjs
+
+      - name: Commit refreshed event data
+        if: steps.api-key.outputs.configured == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/events.json
+          if git diff --cached --quiet; then
+            echo "Event data is unchanged; no commit created."
+          else
+            git commit -m "Refresh Connpass event data"
+            git push
+          fi
 
       - name: Deploy to Azure Static Web Apps
         uses: Azure/static-web-apps-deploy@v1

@@ -202,8 +202,8 @@ export async function syncConnpass({ apiKey, outputPath = OUTPUT_PATH, fetchImpl
 }
 
 async function main() {
-  await syncConnpass({ apiKey: process.env.CONNPASS_API_KEY });
-  console.log(`Updated ${OUTPUT_PATH} from the Connpass API.`);
+  const dataset = await syncConnpass({ apiKey: process.env.CONNPASS_API_KEY });
+  console.log(`Updated ${OUTPUT_PATH} from the Connpass API (${dataset.events.length} events).`);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) {
