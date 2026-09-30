@@ -1,0 +1,55 @@
+name: Deploy static site
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "public/**"
+      - ".github/workflows/deploy-static-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check for Connpass API key
+        id: api-key
+        env:
+          CONNPASS_API_KEY: ${{ secrets.CONNPASS_API_KEY }}
+        run: |
+          if [ -z "$CONNPASS_API_KEY" ]; then
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::Add CONNPASS_API_KEY to refresh the event data before deployment."
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Refresh event data from Connpass API v2
+        if: steps.api-key.outputs.configured == 'true'
+        env:
+          CONNPASS_API_KEY: ${{ secrets.CONNPASS_API_KEY }}
+        run: node scripts/sync-connpass.mjs
+
+      - name: Deploy to Azure Static Web Apps
+        uses: Azure/static-web-apps-deploy@v1
+        env:
+          SKIP_DEPLOY_ON_MISSING_SECRETS: "true"
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          action: upload
+          app_location: public
+          api_location: ""
+          output_location: ""
+          skip_app_build: true
