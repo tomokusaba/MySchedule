@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-09-30T06:12:15.371Z",
+  "generatedAt": "2026-09-30T21:08:55.860Z",
   "events": [
     {
       "id": 404852,
@@ -16,7 +16,8 @@
       "place": "HackBar心斎橋店",
       "roles": [
         "attending",
-        "organizing"
+        "organizing",
+        "speaking"
       ]
     },
     {
@@ -67,7 +68,8 @@
       "place": "イベントバーエデン日暮里",
       "roles": [
         "attending",
-        "organizing"
+        "organizing",
+        "speaking"
       ]
     },
     {
