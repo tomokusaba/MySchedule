@@ -15,7 +15,7 @@
 1. connpass API v2の利用申請を行い、発行されたAPIキーを同じGitHub Actions secrets画面で `CONNPASS_API_KEY` として登録します。
 2. `Refresh Connpass events` workflowが毎日06:00 JSTに参加・主催・登壇の公開イベントを取得し、Azure Static Web Appsへデプロイします。workflow_dispatchから手動実行もできます。
 
-データ取得はconnpass API v2のみを使います。APIキーはActions内でHTTPヘッダーに渡し、Gitリポジトリや公開ファイルには保存しません。取得したJSONは同じworkflow実行中に静的サイトへ配置し、ソースリポジトリにはコミットしません。全ページを取得し、APIの1秒あたり1リクエスト制限に合わせて間隔を空けます。取得に失敗した場合はworkflowを失敗させ、既存の公開サイトは置き換えません。APIキーが未登録の場合は明示的な警告を出して日次更新をスキップします。
+データ取得はconnpass API v2のみを使います。APIキーはActions内でHTTPヘッダーに渡し、Gitリポジトリや公開ファイルには保存しません。取得したJSONは `public/data/events.json` にコミットした後、同じworkflow実行中に静的サイトへデプロイします。全ページを取得し、APIの1秒あたり1リクエスト制限に合わせて間隔を空けます。取得に失敗した場合はworkflowを失敗させ、既存の公開サイトは置き換えません。APIキーが未登録の場合は明示的な警告を出して日次更新をスキップします。
 
 更新処理をローカルで実行する場合:
 
