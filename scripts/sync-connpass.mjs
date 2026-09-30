@@ -6,6 +6,8 @@ const API_ROOT = "https://connpass.com/api/v2/";
 const NICKNAME = "tomo_kusaba";
 const PAGE_SIZE = 100;
 const MIN_REQUEST_INTERVAL_MS = 1100;
+const MAX_RATE_LIMIT_RETRIES = 3;
+const RATE_LIMIT_RETRY_BASE_MS = 5000;
 const OUTPUT_PATH = resolve("public/data/events.json");
 const PROFILE_URL = `https://connpass.com/user/${NICKNAME}/`;
 const ROLE_KEYS = ["attending", "organizing", "speaking"];
@@ -89,25 +91,40 @@ export function createApiClient({ apiKey, fetchImpl = fetch, delay = wait, now =
   let nextRequestAt = 0;
 
   return async function requestPage(path, params) {
-    const waitFor = Math.max(0, nextRequestAt - now());
-    if (waitFor) await delay(waitFor);
-
     const url = new URL(path, API_ROOT);
     for (const [key, value] of Object.entries(params)) url.searchParams.set(key, String(value));
-    const requestStartedAt = now();
-    nextRequestAt = requestStartedAt + MIN_REQUEST_INTERVAL_MS;
-
     let response;
-    try {
-      response = await fetchImpl(url, {
-        headers: {
-          Accept: "application/json",
-          "X-API-Key": apiKey,
-        },
-        signal: AbortSignal.timeout(30000),
-      });
-    } catch {
-      throw new Error(`Unable to reach the Connpass API endpoint ${path}; the existing data was not replaced.`);
+
+    for (let retry = 0; ; retry += 1) {
+      const waitFor = Math.max(0, nextRequestAt - now());
+      if (waitFor) await delay(waitFor);
+
+      const requestStartedAt = now();
+      nextRequestAt = requestStartedAt + MIN_REQUEST_INTERVAL_MS;
+
+      try {
+        response = await fetchImpl(url, {
+          headers: {
+            Accept: "application/json",
+            "X-API-Key": apiKey,
+          },
+          signal: AbortSignal.timeout(30000),
+        });
+      } catch {
+        throw new Error(`Unable to reach the Connpass API endpoint ${path}; the existing data was not replaced.`);
+      }
+
+      if (response.status !== 429 || retry >= MAX_RATE_LIMIT_RETRIES) break;
+
+      const retryAfter = response.headers?.get("Retry-After");
+      const retryAfterSeconds = retryAfter && retryAfter.trim() ? Number(retryAfter) : NaN;
+      const retryAfterDate = retryAfter && !Number.isFinite(retryAfterSeconds) ? Date.parse(retryAfter) : NaN;
+      const retryDelay = Number.isFinite(retryAfterSeconds)
+        ? Math.max(0, retryAfterSeconds * 1000)
+        : Number.isFinite(retryAfterDate)
+          ? Math.max(0, retryAfterDate - now())
+          : RATE_LIMIT_RETRY_BASE_MS * (2 ** retry);
+      await delay(Math.max(retryDelay, nextRequestAt - now()));
     }
 
     if (!response.ok) {

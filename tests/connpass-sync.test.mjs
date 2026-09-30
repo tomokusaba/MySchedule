@@ -61,6 +61,50 @@ test("createApiClient authenticates requests and reports API failures without re
   assert.equal(requestOptions.headers["X-API-Key"], "test-secret");
 });
 
+test("createApiClient retries rate-limited requests using Retry-After", async () => {
+  let attempts = 0;
+  const delays = [];
+  let clock = 0;
+  const requestPage = createApiClient({
+    apiKey: "test-secret",
+    fetchImpl: async () => {
+      attempts += 1;
+      return attempts === 1
+        ? { ok: false, status: 429, headers: new Headers({ "Retry-After": "2" }) }
+        : {
+          ok: true,
+          json: async () => ({ results_returned: 0, results_available: 0, events: [] }),
+        };
+    },
+    delay: async (milliseconds) => { delays.push(milliseconds); clock += milliseconds; },
+    now: () => clock,
+  });
+
+  const result = await requestPage("events/", { count: 100, start: 1 });
+  assert.equal(result.results_available, 0);
+  assert.equal(attempts, 2);
+  assert.deepEqual(delays, [2000]);
+});
+
+test("createApiClient stops retrying after the rate-limit retry limit", async () => {
+  let attempts = 0;
+  const delays = [];
+  let clock = 0;
+  const requestPage = createApiClient({
+    apiKey: "test-secret",
+    fetchImpl: async () => {
+      attempts += 1;
+      return { ok: false, status: 429, headers: new Headers() };
+    },
+    delay: async (milliseconds) => { delays.push(milliseconds); clock += milliseconds; },
+    now: () => clock,
+  });
+
+  await assert.rejects(requestPage("events/", { count: 100, start: 1 }), /HTTP 429/);
+  assert.equal(attempts, 4);
+  assert.deepEqual(delays, [5000, 10000, 20000]);
+});
+
 test("syncConnpass fetches all three activity sources and writes one merged dataset", async () => {
   const directory = await mkdtemp(join(tmpdir(), "connpass-sync-"));
   const outputPath = join(directory, "events.json");
