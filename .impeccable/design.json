@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-28T20:35:27+09:00",
+  "title": "Design System: connpass Event Record",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Limewash",
+        "canonical": "#f4f6f2",
+        "tonalRamp": ["#202724", "#39423d", "#535e58", "#707b75", "#909a94", "#b2bbb5", "#d5dcd6", "#f4f6f2"]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "White Surface",
+        "canonical": "#ffffff",
+        "tonalRamp": ["#242424", "#414141", "#606060", "#808080", "#a1a1a1", "#c2c2c2", "#e2e2e2", "#ffffff"]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Graphite",
+        "canonical": "#182329",
+        "tonalRamp": ["#182329", "#333d43", "#4f5a60", "#6d777d", "#8d969b", "#adb5b9", "#cfd5d7", "#eef1f2"]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Reading Gray",
+        "canonical": "#43545d",
+        "tonalRamp": ["#1c2529", "#374146", "#535e63", "#717b80", "#91999d", "#b1b8bb", "#d3d8da", "#f4f6f7"]
+      },
+      "placeholder": {
+        "role": "neutral",
+        "displayName": "Placeholder Gray",
+        "canonical": "#52616a",
+        "tonalRamp": ["#1e2529", "#394146", "#555e63", "#737b80", "#92999d", "#b2b8bb", "#d3d8da", "#f4f6f7"]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Graphite Rule",
+        "canonical": "#737e82",
+        "tonalRamp": ["#232728", "#3e4445", "#5a6061", "#777d7e", "#969b9c", "#b6babb", "#d7d9da", "#f8f9f9"]
+      },
+      "rule-light": {
+        "role": "neutral",
+        "displayName": "Soft Rule",
+        "canonical": "#d3d9d7",
+        "tonalRamp": ["#242625", "#404241", "#5e605f", "#7c7e7d", "#9c9e9d", "#bdbfbe", "#dedfdf", "#ffffff"]
+      },
+      "amber": {
+        "role": "primary",
+        "displayName": "Amber Beam",
+        "canonical": "#e9c965",
+        "tonalRamp": ["#30260f", "#4d401f", "#6b5b2f", "#8b7841", "#ab9655", "#cbb46a", "#ead181", "#fff1bd"]
+      },
+      "amber-ink": {
+        "role": "secondary",
+        "displayName": "Amber Ink",
+        "canonical": "#3b2c00",
+        "tonalRamp": ["#201a0a", "#3b321e", "#574c32", "#746849", "#928461", "#b0a27b", "#d0c398", "#f0e5b8"]
+      },
+      "shadow-blue": {
+        "role": "secondary",
+        "displayName": "Shadow Blue",
+        "canonical": "#dce8ec",
+        "tonalRamp": ["#14262b", "#2b3d42", "#43565b", "#5d7075", "#788a8e", "#94a6aa", "#b2c3c7", "#dce8ec"]
+      },
+      "shadow-ink": {
+        "role": "secondary",
+        "displayName": "Shadow Ink",
+        "canonical": "#203d4a",
+        "tonalRamp": ["#142127", "#2e3b42", "#49575e", "#65737a", "#829096", "#a1aeb3", "#c0cdd1", "#e1ecef"]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Focus Blue",
+        "canonical": "#173f58",
+        "tonalRamp": ["#132129", "#2b3a42", "#45545d", "#606f77", "#7d8b93", "#9ba9b0", "#bbc8ce", "#dcebf1"]
+      },
+      "organizing-surface": {
+        "role": "secondary",
+        "displayName": "Organizing Tint",
+        "canonical": "#fbf3d8",
+        "tonalRamp": ["#2b2414", "#49412e", "#685f49", "#887e65", "#a99e81", "#cabc9e", "#ebdcbf", "#fff9e6"]
+      },
+      "organizing-rule": {
+        "role": "secondary",
+        "displayName": "Organizing Edge",
+        "canonical": "#765000",
+        "tonalRamp": ["#271d0a", "#44371d", "#62532e", "#817043", "#a18d59", "#c1ab70", "#e3ca89", "#ffe7a9"]
+      },
+      "speaking-rule": {
+        "role": "secondary",
+        "displayName": "Speaking Edge",
+        "canonical": "#45616e",
+        "tonalRamp": ["#1b2327", "#353e42", "#515b5f", "#6e787c", "#8d969a", "#adb6b9", "#cfd7da", "#f1f7fa"]
+      },
+      "speaking-ink": {
+        "role": "secondary",
+        "displayName": "Speaking Ink",
+        "canonical": "#183744",
+        "tonalRamp": ["#142025", "#2e3a3f", "#49565b", "#657278", "#828f94", "#a1adb2", "#c0cdd1", "#e3eef1"]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The responsive page title."
+      },
+      "title": {
+        "displayName": "Event title",
+        "purpose": "Linked titles in the event timeline."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default Japanese and Latin reading copy."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Wordmark and source-note labels."
+      }
+    },
+    "breakpoints": [
+      {
+        "name": "mobile-layout",
+        "value": "760px"
+      },
+      {
+        "name": "small-screen",
+        "value": "480px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Activity Filter",
+      "kind": "button",
+      "refersTo": "filter-button",
+      "description": "Square-edged control for filtering the timeline by explicit activity role.",
+      "html": "<button class=\"ds-filter\" type=\"button\" aria-pressed=\"false\">参加</button>",
+      "css": ".ds-filter { min-height: 2.75rem; padding: 0.45rem 0.85rem; border: 1px solid var(--rule); border-radius: 0; background: var(--surface); color: var(--ink); font: inherit; font-size: 0.9rem; cursor: pointer; } .ds-filter:hover:not([aria-pressed=\"true\"]) { background: var(--shadow-blue); } .ds-filter[aria-pressed=\"true\"] { border-color: var(--ink); background: var(--ink); color: var(--surface); } .ds-filter:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "Labeled event and group search field.",
+      "html": "<label class=\"ds-search\"><span>イベントを検索</span><input type=\"search\" placeholder=\"イベント名・グループ名\"></label>",
+      "css": ".ds-search { display: grid; gap: 0.4rem; color: var(--muted); font: inherit; font-size: 0.82rem; font-weight: 650; } .ds-search input { width: 100%; min-height: 2.75rem; padding: 0.45rem 0.7rem; border: 1px solid var(--rule); border-radius: 0; background: var(--surface); color: var(--ink); font: inherit; font-weight: 400; } .ds-search input::placeholder { color: #52616a; opacity: 1; } .ds-search input:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }"
+    },
+    {
+      "name": "Sort Field",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "Labeled native select to choose chronological direction.",
+      "html": "<label class=\"ds-sort\"><span>並び順</span><select><option>新しい順</option><option>古い順</option></select></label>",
+      "css": ".ds-sort { display: grid; gap: 0.4rem; color: var(--muted); font: inherit; font-size: 0.82rem; font-weight: 650; } .ds-sort select { width: 100%; min-height: 2.75rem; padding: 0.45rem 0.7rem; border: 1px solid var(--rule); border-radius: 0; background: var(--surface); color: var(--ink); font: inherit; font-weight: 400; } .ds-sort select:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }"
+    },
+    {
+      "name": "Masthead",
+      "kind": "nav",
+      "description": "Quiet brand/profile navigation separated from the page by a soft rule.",
+      "html": "<nav class=\"ds-nav\"><a class=\"ds-wordmark\" href=\"#\"><span class=\"ds-mark\">TK</span><span>EVENT RECORD</span></a><a class=\"ds-profile\" href=\"#\">connpassプロフィール <span aria-hidden=\"true\">↗</span></a></nav>",
+      "css": ".ds-nav { display: flex; min-height: 4.5rem; align-items: center; justify-content: space-between; gap: 1.5rem; border-bottom: 1px solid var(--rule-light); font: inherit; } .ds-wordmark { display: inline-flex; align-items: center; gap: 0.75rem; color: var(--ink); text-decoration: none; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; } .ds-mark { display: grid; width: 2.25rem; height: 2.25rem; place-items: center; border: 1px solid var(--ink); font-size: 0.78rem; letter-spacing: 0.04em; } .ds-profile { color: var(--shadow-ink); font-size: 0.9rem; font-weight: 600; text-underline-offset: 0.2em; } .ds-profile:hover { text-decoration-thickness: 2px; } .ds-profile:focus-visible, .ds-wordmark:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; } @media (max-width: 480px) { .ds-nav { min-height: 4rem; } .ds-wordmark { gap: 0.55rem; font-size: 0.68rem; } .ds-profile { font-size: 0.8rem; } }"
+    },
+    {
+      "name": "Role Label",
+      "kind": "chip",
+      "description": "Small outlined label; its text is the role cue, with color as reinforcement.",
+      "html": "<span class=\"ds-role ds-role--organizing\">主催</span>",
+      "css": ".ds-role { display: inline-flex; min-height: 1.65rem; align-items: center; padding: 0.12rem 0.5rem; border: 1px solid var(--rule); border-radius: 0; background: var(--surface); color: var(--ink); font: inherit; font-size: 0.75rem; font-weight: 650; line-height: 1.3; } .ds-role--organizing { border-color: #765000; background: #fbf3d8; color: #3b2c00; } .ds-role--speaking { border-color: #45616e; background: var(--shadow-blue); color: #183744; }"
+    },
+    {
+      "name": "Timeline Entry",
+      "kind": "custom",
+      "description": "A date and event title aligned to the continuous year-section chronology.",
+      "html": "<ol class=\"ds-events\"><li class=\"ds-event\"><time class=\"ds-date\">2026年9月28日</time><div class=\"ds-content\"><span class=\"ds-role\">参加</span><h4 class=\"ds-title\"><a href=\"#\">connpassイベントの記録</a></h4><a class=\"ds-source\" href=\"#\">connpassで見る <span aria-hidden=\"true\">↗</span></a></div></li><li class=\"ds-event ds-event--latest\"><time class=\"ds-date\">2026年9月28日</time><div class=\"ds-content\"><span class=\"ds-role\">登壇</span><h4 class=\"ds-title\"><a href=\"#\">最新イベント</a></h4></div></li></ol>",
+      "css": ".ds-events { position: relative; display: grid; gap: 0; margin: 0; padding: 0; list-style: none; } .ds-events::before { position: absolute; top: 0.4rem; bottom: 0.4rem; left: 0.28rem; width: 1px; background: var(--rule); content: \"\"; } .ds-event { position: relative; display: grid; grid-template-columns: minmax(7.5rem, 0.28fr) minmax(0, 1fr); gap: 1.5rem; padding: 0.2rem 0 1.9rem 1.5rem; } .ds-event::before { position: absolute; top: 0.55rem; left: 0; width: 0.6rem; height: 0.6rem; border: 1px solid var(--shadow-ink); border-radius: 50%; background: var(--paper); content: \"\"; } .ds-event--latest::before { border-color: var(--amber-ink); background: var(--amber); } .ds-date { padding-top: 0.25rem; color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; } .ds-title { margin: 0; font-size: clamp(1.05rem, 1.8vw, 1.3rem); font-weight: 650; line-height: 1.45; } .ds-title a { color: var(--ink); } .ds-source { color: var(--shadow-ink); text-underline-offset: 0.2em; } .ds-source:focus-visible, .ds-title a:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; } @media (max-width: 760px) { .ds-event { grid-template-columns: 1fr; gap: 0.25rem; } }"
+    }
+  ],
+  "narrative": {
+    "northStar": "A Daylight Section Through Time",
+    "overview": "This is a public record to read, not a collection of promotional tiles. Its visual language takes the opening brief literally: limewash-white space, graphite rules, a shadow-blue chronology, and one warm amber cue for the newest event. A restrained system sans keeps Japanese and Latin text at home together; dates use tabular numerals so the timeline can be scanned as a sequence.\n\nThe page moves from a left-aligned title and source attribution through three distinct role totals and compact controls into one continuous timeline, divided by year. Event facts remain connected to their connpass source. The page is intentionally quiet and structural; the event record itself supplies the content and variation.",
+    "keyCharacteristics": [
+      "Light limewash canvas and crisp graphite separators.",
+      "One year-marked timeline, not a stack of interchangeable cards.",
+      "Explicit attending, organizing, and speaking labels alongside role color.",
+      "Amber marks the newest event; shadow-blue carries chronology and links.",
+      "Responsive single-column reading with visible keyboard focus."
+    ],
+    "rules": [
+      {
+        "name": "The One Warm Signal Rule",
+        "body": "Amber marks the latest record and a small source cue; keep it a signal rather than a broad decorative fill.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tabular Date Rule",
+        "body": "Keep dates and totals aligned with tabular numerals; do not switch dates to a decorative or proportional display face.",
+        "section": "typography"
+      },
+      {
+        "name": "The Rule-Over-Shadow Rule",
+        "body": "Use borders, tonal surfaces, and position to explain structure; do not introduce elevation shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep the page on the limewash `#f4f6f2` ground with graphite `#182329` text and thin rules.",
+      "Do preserve the year headings, ordered event lists, and uninterrupted timeline spine.",
+      "Do label every activity role in text and link each event to its connpass source.",
+      "Do reserve amber `#e9c965` for the newest-event marker and small source cue.",
+      "Do retain visible focus outlines and the compact, square-edged control treatment."
+    ],
+    "donts": [
+      "Don't convert the timeline into a grid or stack of independent event cards.",
+      "Don't make role distinctions depend on color alone or weaken the explicit Japanese labels.",
+      "Don't add drop shadows, rounded control pills, or a second display font; none are part of the shipped system.",
+      "Don't allow the timeline to remain multi-column on small screens."
+    ]
+  }
+}

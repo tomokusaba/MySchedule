@@ -1,0 +1,125 @@
+<!--
+THESIS: Read a public event history as a daylight-cut section through time, not a stack of interchangeable cards.
+OWN-WORLD: Limewash-white ground, graphite rules, an amber band for the newest record, and shadow-blue chronology; system sans with tabular dates.
+STORY: Visitors distinguish attending, organizing, and speaking, then follow every record to its connpass source.
+FIRST VIEWPORT: A left-aligned title and source note lead to three role totals, compact filters, and the beginning of one continuous, year-marked timeline.
+FORM: The assigned sixth grounded Read structure, an architectural section through years; seed f9f96c1e. Role labels remain explicit and the timeline collapses into a single readable column on small screens.
+-->
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="connpassでの参加・主催・登壇イベントを、公開情報から時系列でまとめています。">
+    <meta name="theme-color" content="#f4f6f2">
+    <title>イベント活動の記録 | くさば</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">本文へ移動</a>
+
+    <header class="masthead">
+      <div class="page-width masthead__inner">
+        <a class="wordmark" href="./" aria-label="TK EVENT RECORD">
+          <span class="wordmark__initials" aria-hidden="true">TK</span>
+          <span class="wordmark__label">EVENT RECORD</span>
+        </a>
+        <a class="profile-link" href="https://connpass.com/user/tomo_kusaba/" target="_blank" rel="noopener noreferrer">
+          connpassプロフィール <span aria-hidden="true">↗</span><span class="visually-hidden">（新しいタブで開きます）</span>
+        </a>
+      </div>
+    </header>
+
+    <main id="main" class="page-width">
+      <section class="opening" aria-labelledby="page-title">
+        <div class="opening__copy">
+          <h1 id="page-title">イベント活動の記録</h1>
+          <p class="opening__summary">参加・主催・登壇。connpassでの活動を、時間の流れに沿ってたどれます。</p>
+        </div>
+        <aside class="source-note" aria-label="情報の出典">
+          <span class="source-note__mark" aria-hidden="true"></span>
+          <div>
+            <p class="source-note__label">公開情報の出典</p>
+            <p class="source-note__value">connpass <span aria-hidden="true">/</span> tomo_kusaba</p>
+          </div>
+        </aside>
+      </section>
+
+      <section class="activity" aria-labelledby="activity-title">
+        <h2 id="activity-title" class="visually-hidden">活動の内訳</h2>
+        <dl class="activity__totals">
+          <div class="activity-total activity-total--attending">
+            <dt>参加</dt>
+            <dd id="count-attending">—</dd>
+          </div>
+          <div class="activity-total activity-total--organizing">
+            <dt>主催</dt>
+            <dd id="count-organizing">—</dd>
+          </div>
+          <div class="activity-total activity-total--speaking">
+            <dt>登壇</dt>
+            <dd id="count-speaking">—</dd>
+          </div>
+          <div class="activity__updated">
+            <dt>データ更新</dt>
+            <dd><time id="updated-at">読み込み中</time></dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="records" aria-labelledby="records-title">
+        <div class="records__heading">
+          <h2 id="records-title">年表</h2>
+          <p>各イベントの詳細はconnpassで確認できます。</p>
+        </div>
+
+        <div class="controls">
+          <div class="filter-control">
+            <p class="control-label" id="filter-label">活動の種類</p>
+            <div class="filter-buttons" role="group" aria-labelledby="filter-label">
+              <button type="button" class="filter-button" data-filter="all" aria-pressed="true">すべて</button>
+              <button type="button" class="filter-button" data-filter="attending" aria-pressed="false">参加</button>
+              <button type="button" class="filter-button" data-filter="organizing" aria-pressed="false">主催</button>
+              <button type="button" class="filter-button" data-filter="speaking" aria-pressed="false">登壇</button>
+            </div>
+          </div>
+          <label class="search-control">
+            <span class="control-label">イベントを検索</span>
+            <input id="search" type="search" autocomplete="off" placeholder="イベント名・グループ名">
+          </label>
+          <label class="sort-control">
+            <span class="control-label">並び順</span>
+            <select id="sort-order">
+              <option value="newest">新しい順</option>
+              <option value="oldest">古い順</option>
+            </select>
+          </label>
+        </div>
+
+        <p id="results-status" class="results-status" role="status" aria-live="polite">イベントデータを読み込んでいます。</p>
+        <div id="timeline" class="timeline"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <h3 id="empty-title">公開イベント情報はまだ同期されていません</h3>
+          <p id="empty-copy">初回更新後に公開記録が表示されます。現在の情報はconnpassプロフィールで確認できます。</p>
+          <a href="https://connpass.com/user/tomo_kusaba/" target="_blank" rel="noopener noreferrer">
+            connpassプロフィールを見る <span aria-hidden="true">↗</span><span class="visually-hidden">（新しいタブで開きます）</span>
+          </a>
+        </div>
+        <noscript>
+          <p class="noscript-message">イベント記録の表示にはJavaScriptが必要です。<a href="https://connpass.com/user/tomo_kusaba/">connpassプロフィール</a>から公開情報を確認できます。</p>
+        </noscript>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <div class="page-width page-footer__inner">
+        <p>記録はconnpassの公開情報をもとに毎日更新します。</p>
+        <a href="https://connpass.com/user/tomo_kusaba/" target="_blank" rel="noopener noreferrer">
+          connpass <span aria-hidden="true">↗</span><span class="visually-hidden">（新しいタブで開きます）</span>
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>

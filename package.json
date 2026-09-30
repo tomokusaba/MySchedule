@@ -1,0 +1,12 @@
+{
+  "name": "connpass-event-record",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "sync": "node scripts/sync-connpass.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
