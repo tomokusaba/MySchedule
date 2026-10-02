@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-01T21:08:28.881Z",
+  "generatedAt": "2026-10-02T21:08:27.765Z",
   "events": [
     {
       "id": 404852,
@@ -70,6 +70,18 @@
         "attending",
         "organizing",
         "speaking"
+      ]
+    },
+    {
+      "id": 404937,
+      "title": "JAWS-UG浜松・静岡 × JAZUG Shizuoka 懇親会 202611",
+      "catch": "",
+      "startedAt": "2026-11-07T18:00:00+09:00",
+      "url": "https://jawsug-hamamatsu.connpass.com/event/404937/",
+      "groupName": "JAWS-UG浜松",
+      "place": "",
+      "roles": [
+        "attending"
       ]
     },
     {
