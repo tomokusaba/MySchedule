@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-04T21:23:18.459Z",
+  "generatedAt": "2026-10-05T21:09:50.800Z",
   "events": [
     {
       "id": 404852,
@@ -143,6 +143,19 @@
       "url": "https://avanadejapantech.connpass.com/event/406658/",
       "groupName": "Avanade Japan Tech",
       "place": "アバナード株式会社",
+      "roles": [
+        "attending",
+        "speaking"
+      ]
+    },
+    {
+      "id": 406693,
+      "title": "ウェブアクセシビリティLT&交流会 vol.12",
+      "catch": "初心者大歓迎のウェブアクセシビリティLT&交流会（オンライン）",
+      "startedAt": "2026-10-17T13:30:00+09:00",
+      "url": "https://a11y-discord.connpass.com/event/406693/",
+      "groupName": "Discordウェブアクセシビリティコミュニティ",
+      "place": "オンライン",
       "roles": [
         "attending",
         "speaking"
