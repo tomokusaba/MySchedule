@@ -4,8 +4,21 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-05T21:09:50.800Z",
+  "generatedAt": "2026-10-06T21:08:25.056Z",
   "events": [
+    {
+      "id": 408209,
+      "title": ".NETラボ 勉強会 2026年12月",
+      "catch": "ハイブリッド勉強会(YouTube Live)",
+      "startedAt": "2026-12-19T13:00:00+09:00",
+      "url": "https://dotnetlab.connpass.com/event/408209/",
+      "groupName": ".NETラボ",
+      "place": "日本マイクロソフト品川オフィス",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
     {
       "id": 404852,
       "title": ".NETラボ@HackBar心斎橋",
