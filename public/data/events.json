@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-08T21:09:46.384Z",
+  "generatedAt": "2026-10-09T21:10:18.362Z",
   "events": [
     {
       "id": 408209,
@@ -182,6 +182,18 @@
       "url": "https://a11ytyo.connpass.com/event/407703/",
       "groupName": "A11y Tokyo Meetup",
       "place": "LODGE（LINEヤフー株式会社　紀尾井町オフィス）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 409413,
+      "title": "PyCon mini Shizuoka 2027 ミーティング/作業会 2026.10.13",
+      "catch": "キックオフミーティングです",
+      "startedAt": "2026-10-13T20:00:00+09:00",
+      "url": "https://pycon-shizu.connpass.com/event/409413/",
+      "groupName": "PyCon mini Shizuoka",
+      "place": "オンライン",
       "roles": [
         "attending"
       ]
