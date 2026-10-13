@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-12T21:12:50.682Z",
+  "generatedAt": "2026-10-13T21:09:28.138Z",
   "events": [
     {
       "id": 408209,
@@ -72,6 +72,18 @@
       ]
     },
     {
+      "id": 408978,
+      "title": "Microsoft Ignite 2026 現地速報ライブ",
+      "catch": "Day 1 の内容をサンフランシスコからお届け！",
+      "startedAt": "2026-11-18T12:00:00+09:00",
+      "url": "https://msdevjp.connpass.com/event/408978/",
+      "groupName": "Microsoft Open Tech Night",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
       "id": 404586,
       "title": "Microsoft MVPとMicrosoft Igniteの日に徹夜するバー",
       "catch": "",
@@ -92,7 +104,7 @@
       "startedAt": "2026-11-07T18:00:00+09:00",
       "url": "https://jawsug-hamamatsu.connpass.com/event/404937/",
       "groupName": "JAWS-UG浜松",
-      "place": "",
+      "place": "てんぷらとぶり　UOTEN（うおてん）",
       "roles": [
         "attending"
       ]
