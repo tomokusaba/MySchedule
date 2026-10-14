@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-13T21:09:28.138Z",
+  "generatedAt": "2026-10-14T21:08:22.385Z",
   "events": [
     {
       "id": 408209,
@@ -194,6 +194,18 @@
       "url": "https://a11ytyo.connpass.com/event/407703/",
       "groupName": "A11y Tokyo Meetup",
       "place": "LODGE（LINEヤフー株式会社　紀尾井町オフィス）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 406556,
+      "title": "Hello LT world『みんなで語る！好きと学びのアウトプット LT Night』",
+      "catch": "「登壇してみたい」「もっと発信を増やしていきたい」人のためのLTイベント！",
+      "startedAt": "2026-10-15T19:00:00+09:00",
+      "url": "https://findy.connpass.com/event/406556/",
+      "groupName": "ファインディ／Findy",
+      "place": "Findy イベントスペース",
       "roles": [
         "attending"
       ]
