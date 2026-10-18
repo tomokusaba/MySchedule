@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-17T21:11:03.394Z",
+  "generatedAt": "2026-10-18T21:08:02.835Z",
   "events": [
     {
       "id": 408209,
@@ -95,6 +95,18 @@
         "attending",
         "organizing",
         "speaking"
+      ]
+    },
+    {
+      "id": 410268,
+      "title": "車椅子着付け｜A11y Tokyo Meetup　2026年11月",
+      "catch": "着物スタイリスト・着付け講師・フォトグラファーの松本スターシャさん（INKIMONO）を迎えて",
+      "startedAt": "2026-11-16T19:30:00+09:00",
+      "url": "https://a11ytyo.connpass.com/event/410268/",
+      "groupName": "A11y Tokyo Meetup",
+      "place": "LODGE（LINEヤフー株式会社　紀尾井町オフィス）",
+      "roles": [
+        "attending"
       ]
     },
     {
