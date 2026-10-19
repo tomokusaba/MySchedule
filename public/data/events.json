@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-18T21:08:02.835Z",
+  "generatedAt": "2026-10-19T21:08:15.527Z",
   "events": [
     {
       "id": 408209,
@@ -154,6 +154,18 @@
       "url": "https://findy.connpass.com/event/406424/",
       "groupName": "ファインディ／Findy",
       "place": "Findy イベントスペース",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 406179,
+      "title": "AI×個人開発の新時代！「爆速ゼロイチ」プロトタイピング",
+      "catch": "",
+      "startedAt": "2026-10-26T19:30:00+09:00",
+      "url": "https://rosca.connpass.com/event/406179/",
+      "groupName": "Dev's Garden",
+      "place": "Dev's Garden",
       "roles": [
         "attending"
       ]
