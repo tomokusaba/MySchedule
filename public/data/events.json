@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-21T21:08:12.081Z",
+  "generatedAt": "2026-10-22T21:10:42.391Z",
   "events": [
     {
       "id": 408209,
@@ -17,6 +17,18 @@
       "roles": [
         "attending",
         "organizing"
+      ]
+    },
+    {
+      "id": 410691,
+      "title": "【Lenovo Pro Community】ガジェット研究室＠秋葉原_#11",
+      "catch": "２０２６年 第６回 ＠聖地 秋葉原に集え！ガジェット研究室～初心者も大歓迎～",
+      "startedAt": "2026-12-10T18:00:00+09:00",
+      "url": "https://lenovopro-comunity-gaget-lab.connpass.com/event/410691/",
+      "groupName": "【LenovoPro コミュニティ】ガジェット研究室",
+      "place": "Lenovo Japan本社セミナールーム（アキバUDX北館10階）",
+      "roles": [
+        "attending"
       ]
     },
     {
