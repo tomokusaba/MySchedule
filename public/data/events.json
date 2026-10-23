@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-22T21:10:42.391Z",
+  "generatedAt": "2026-10-23T21:08:05.736Z",
   "events": [
     {
       "id": 408209,
@@ -178,6 +178,18 @@
       "url": "https://rosca.connpass.com/event/406179/",
       "groupName": "Dev's Garden",
       "place": "Dev's Garden",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 410802,
+      "title": "PyCon mini Shizuoka 2027 ミーティング/作業会 2026.10.25",
+      "catch": "運営ミーティング&作業会です！",
+      "startedAt": "2026-10-25T20:00:00+09:00",
+      "url": "https://pycon-shizu.connpass.com/event/410802/",
+      "groupName": "PyCon mini Shizuoka",
+      "place": "オンライン",
       "roles": [
         "attending"
       ]
