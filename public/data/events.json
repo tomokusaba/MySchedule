@@ -4,8 +4,20 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-24T21:08:28.914Z",
+  "generatedAt": "2026-10-25T21:08:05.802Z",
   "events": [
+    {
+      "id": 409477,
+      "title": "PyCon mini Shizuoka 2027",
+      "catch": "2027年も静岡でPyCon miniが開催されます！",
+      "startedAt": "2027-02-27T10:00:00+09:00",
+      "url": "https://pycon-shizu.connpass.com/event/409477/",
+      "groupName": "PyCon mini Shizuoka",
+      "place": "静岡市 コ・クリエーションスペース",
+      "roles": [
+        "organizing"
+      ]
+    },
     {
       "id": 408209,
       "title": ".NETラボ 勉強会 2026年12月",
