@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-27T21:05:51.397Z",
+  "generatedAt": "2026-10-28T21:06:08.298Z",
   "events": [
     {
       "id": 409477,
@@ -91,6 +91,18 @@
       "url": "https://fukuoka-a11yconf.connpass.com/event/404619/",
       "groupName": "アクセシビリティカンファレンス福岡",
       "place": "ONE FUKUOKA CONFERENCE HALL",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 411036,
+      "title": "アクセシビリティカンファレンス福岡 前夜祭",
+      "catch": "前日入りの方も、当日は参加できない方も、お気軽にご参加ください！",
+      "startedAt": "2026-11-20T19:00:00+09:00",
+      "url": "https://lycorptech-fukuoka.connpass.com/event/411036/",
+      "groupName": "LINEヤフー Tech 福岡",
+      "place": "LINEヤフー株式会社　博多オフィス",
       "roles": [
         "attending"
       ]
