@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-28T21:06:08.298Z",
+  "generatedAt": "2026-10-29T21:06:28.633Z",
   "events": [
     {
       "id": 409477,
@@ -180,6 +180,18 @@
       "roles": [
         "attending",
         "speaking"
+      ]
+    },
+    {
+      "id": 410145,
+      "title": "GitHub Copilot Dev Days 2026 at Osaka",
+      "catch": "GitHub Copilotと半日遊ぼう！",
+      "startedAt": "2026-10-31T13:00:00+09:00",
+      "url": "https://gh-cug.connpass.com/event/410145/",
+      "groupName": "GitHub Copilot User Group Japan",
+      "place": "アールスリーインスティテュート（gusuku Ashibinaa OSAKA）",
+      "roles": [
+        "attending"
       ]
     },
     {
