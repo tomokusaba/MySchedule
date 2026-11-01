@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-10-31T21:05:09.410Z",
+  "generatedAt": "2026-11-01T21:06:16.990Z",
   "events": [
     {
       "id": 409477,
@@ -141,6 +141,18 @@
       "url": "https://a11ytyo.connpass.com/event/410268/",
       "groupName": "A11y Tokyo Meetup",
       "place": "LODGE（LINEヤフー株式会社　紀尾井町オフィス）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 411284,
+      "title": "PyCon JP 2027 主催メンバー相談会 #1",
+      "catch": "",
+      "startedAt": "2026-11-11T22:00:00+09:00",
+      "url": "https://pyconjp-staff.connpass.com/event/411284/",
+      "groupName": "PyCon JP スタッフ",
+      "place": "オンライン",
       "roles": [
         "attending"
       ]
