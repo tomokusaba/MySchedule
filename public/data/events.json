@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-11-02T21:10:03.436Z",
+  "generatedAt": "2026-11-03T21:09:40.400Z",
   "events": [
     {
       "id": 409477,
@@ -19,6 +19,30 @@
       ]
     },
     {
+      "id": 411396,
+      "title": "PyCon JP 2027 主催メンバー相談会 #4",
+      "catch": "",
+      "startedAt": "2027-02-10T22:00:00+09:00",
+      "url": "https://pyconjp-staff.connpass.com/event/411396/",
+      "groupName": "PyCon JP スタッフ",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 411395,
+      "title": "PyCon JP 2027 主催メンバー相談会 #3",
+      "catch": "",
+      "startedAt": "2027-01-13T22:00:00+09:00",
+      "url": "https://pyconjp-staff.connpass.com/event/411395/",
+      "groupName": "PyCon JP スタッフ",
+      "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
       "id": 408209,
       "title": ".NETラボ 勉強会 2026年12月",
       "catch": "ハイブリッド勉強会(YouTube Live)",
@@ -29,6 +53,18 @@
       "roles": [
         "attending",
         "organizing"
+      ]
+    },
+    {
+      "id": 411394,
+      "title": "PyCon JP 2027 主催メンバー相談会 #2",
+      "catch": "",
+      "startedAt": "2026-12-16T22:00:00+09:00",
+      "url": "https://pyconjp-staff.connpass.com/event/411394/",
+      "groupName": "PyCon JP スタッフ",
+      "place": "オンライン",
+      "roles": [
+        "attending"
       ]
     },
     {
@@ -3177,7 +3213,7 @@
       "catch": "Microsoft Igniteで発表された最新技術の中から学生アンバサダーが気になった技術を紹介！",
       "startedAt": "2024-01-26T20:00:00+09:00",
       "url": "https://mspjp.connpass.com/event/306100/",
-      "groupName": "Microsoft Learn Student Ambassadors",
+      "groupName": "Microsoft Student Ambassadors Japan",
       "place": "オンライン",
       "roles": [
         "attending"
