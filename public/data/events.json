@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-11-03T21:09:40.400Z",
+  "generatedAt": "2026-11-04T21:11:27.467Z",
   "events": [
     {
       "id": 409477,
@@ -63,6 +63,18 @@
       "url": "https://pyconjp-staff.connpass.com/event/411394/",
       "groupName": "PyCon JP スタッフ",
       "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 404336,
+      "title": "PyCon mini Tokyo with PythonAsia conference",
+      "catch": "日本とアジアのコミュニティの交流を目的としたPythonカンファレンスです！",
+      "startedAt": "2026-12-12T10:00:00+09:00",
+      "url": "https://pyconjp.connpass.com/event/404336/",
+      "groupName": "PyCon JP",
+      "place": "GMOインターネットグループ　グループ第二本社　GMO Yours・フクラス",
       "roles": [
         "attending"
       ]
