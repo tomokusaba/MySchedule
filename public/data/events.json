@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-11-10T21:11:52.798Z",
+  "generatedAt": "2026-11-11T21:18:10.462Z",
   "events": [
     {
       "id": 409477,
@@ -38,6 +38,18 @@
       "url": "https://pyconjp-staff.connpass.com/event/411395/",
       "groupName": "PyCon JP スタッフ",
       "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 412847,
+      "title": "エンジニアニメ忘年会2026",
+      "catch": "忘年会です！アニメが少しでも好きな方歓迎です！",
+      "startedAt": "2026-12-21T19:00:00+09:00",
+      "url": "https://engineers-anime.connpass.com/event/412847/",
+      "groupName": "エンジニアニメ",
+      "place": "池袋駅付近",
       "roles": [
         "attending"
       ]
