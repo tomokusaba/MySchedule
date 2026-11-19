@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-11-18T21:11:55.110Z",
+  "generatedAt": "2026-11-19T21:12:07.984Z",
   "events": [
     {
       "id": 409477,
@@ -75,6 +75,18 @@
       "url": "https://pyconjp-staff.connpass.com/event/411394/",
       "groupName": "PyCon JP スタッフ",
       "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 412771,
+      "title": "PyCon mini Tokyo Party",
+      "catch": "",
+      "startedAt": "2026-12-12T18:45:00+09:00",
+      "url": "https://pyconjp.connpass.com/event/412771/",
+      "groupName": "PyCon JP",
+      "place": "Goodbeer faucets",
       "roles": [
         "attending"
       ]
