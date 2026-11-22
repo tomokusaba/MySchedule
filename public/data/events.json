@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-11-21T21:11:08.240Z",
+  "generatedAt": "2026-11-22T21:11:42.927Z",
   "events": [
     {
       "id": 411001,
@@ -15,18 +15,7 @@
       "groupName": "PyCon mini Shizuoka",
       "place": "静岡市コ・クリエーションスペース",
       "roles": [
-        "organizing"
-      ]
-    },
-    {
-      "id": 413946,
-      "title": "PyCon mini Shizuoka 2027 個人スポンサー 5,000円プラン",
-      "catch": "",
-      "startedAt": "2027-02-27T10:00:00+09:00",
-      "url": "https://pycon-shizu.connpass.com/event/413946/",
-      "groupName": "PyCon mini Shizuoka",
-      "place": "",
-      "roles": [
+        "attending",
         "organizing"
       ]
     },
@@ -38,6 +27,19 @@
       "url": "https://pycon-shizu.connpass.com/event/409477/",
       "groupName": "PyCon mini Shizuoka",
       "place": "静岡市 コ・クリエーションスペース",
+      "roles": [
+        "attending",
+        "organizing"
+      ]
+    },
+    {
+      "id": 413946,
+      "title": "PyCon mini Shizuoka 2027 個人スポンサー 5,000円プラン",
+      "catch": "",
+      "startedAt": "2027-02-27T10:00:00+09:00",
+      "url": "https://pycon-shizu.connpass.com/event/413946/",
+      "groupName": "PyCon mini Shizuoka",
+      "place": "",
       "roles": [
         "organizing"
       ]
