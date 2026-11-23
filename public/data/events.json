@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-11-22T21:11:42.927Z",
+  "generatedAt": "2026-11-23T21:11:24.330Z",
   "events": [
     {
       "id": 411001,
@@ -64,6 +64,18 @@
       "url": "https://pyconjp-staff.connpass.com/event/411395/",
       "groupName": "PyCon JP スタッフ",
       "place": "オンライン",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 411004,
+      "title": "BuriKaigi 2027",
+      "catch": "北陸 IT エンジニアカンファレンス",
+      "startedAt": "2027-01-08T10:30:00+09:00",
+      "url": "https://toyama-eng.connpass.com/event/411004/",
+      "groupName": "富山合同勉強会",
+      "place": "富山国際会議場",
       "roles": [
         "attending"
       ]
