@@ -4,7 +4,7 @@
     "nickname": "tomo_kusaba",
     "url": "https://connpass.com/user/tomo_kusaba/"
   },
-  "generatedAt": "2026-11-23T21:11:24.330Z",
+  "generatedAt": "2026-11-24T21:11:49.780Z",
   "events": [
     {
       "id": 411001,
@@ -149,6 +149,18 @@
       "url": "https://lenovopro-comunity-gaget-lab.connpass.com/event/410691/",
       "groupName": "【LenovoPro コミュニティ】ガジェット研究室",
       "place": "Lenovo Japan本社セミナールーム（アキバUDX北館10階）",
+      "roles": [
+        "attending"
+      ]
+    },
+    {
+      "id": 414199,
+      "title": "PyCon mini Shizuoka 2027 mtg/作業会 2026.12.09",
+      "catch": "運営ミーティング&作業会です！",
+      "startedAt": "2026-12-09T20:00:00+09:00",
+      "url": "https://pycon-shizu.connpass.com/event/414199/",
+      "groupName": "PyCon mini Shizuoka",
+      "place": "オンライン",
       "roles": [
         "attending"
       ]
